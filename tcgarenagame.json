@@ -1,0 +1,37 @@
+//THIS SHIT IS GENUINELY NOT COMPLETE DO NOT LAUNCH THIS SHIT
+
+{
+  "name": "Siege & Duress",
+  
+  //deckbuilding
+  "deckBuilding": {
+    "mainFilters": ["domain", "cost", "type"],
+    "formats": [
+      { "title": "Classic", "gameplay": "Standard" }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": { 
+        "startingHandSize": 7 
+      },
+      "newTurn": { 
+        "drawPerTurn": 1 
+      },
+      "countersStartingValues": [],
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "content": [{ "section": "Board" }]
+        },
+        "sectionsDict": {
+          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+        }
+      }
+    }
+  },
+  "cards": {
+    "dataUrl": "https://example.com/cards.json",
+    "cardBack": "https://example.com/card-back.jpg"
+  }
+}
