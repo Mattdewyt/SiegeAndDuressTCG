@@ -5,27 +5,88 @@
   
   //deckbuilding
   "deckBuilding": {
-    "mainFilters": ["domain", "cost", "type"],
+    "mainFilters": ["type", "cost", "domain"],
+    
     "formats": [
-      { "title": "Classic", "gameplay": "Standard" }
+      { "title": "Classic", "gameplay": "Standard", "deckRuleset": "Standard" }
     ]
+
+    "deckRulesets": {
+      "Standard": {
+        "general": { "min": 60, "maxPerCard": 4},
+        "categories": [
+          { "category": "Sideboard", "min": 0, "max": 15 },
+          { "category": "Base 1", "min": 1, "max": 2 },
+          { "category": "Base 2", "min": 1, "max": 2 },
+          { "category": "Base 3", "min": 1, "max": 2 },
+        ]
+      }
+    }
+    
   },
+  
   "gameplay": {
     "Standard": {
+
+      "beforeGameStart": {
+        "boardCategoriesInSideboard": [ "Sideboard", "Base 1", "Base 2", "Base 3" ]
+      },
+      
       "mulligan": { 
-        "startingHandSize": 7 
+        "startingHandSize": 7,
+        "mulliganCount": { "max": 7 },
+        "mulliganCycle": {
+          "steps": [ "toBottom", "applyPenalty", "draw" ],
+          "selectionRange": [ "min": 7 ]
+        }
       },
+      
       "newTurn": { 
-        "drawPerTurn": 1 
+        "drawOnStart": false 
       },
+      
       "countersStartingValues": [],
+      
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }]
+          "content": [
+            { "section": "Field" },
+            { "direction": "row",
+              "content": [
+                { "direction": "column",
+                  "content": [
+                    { "section": "Base 1 Play" },
+                    { "section": "Base 1 Resources" }
+                  ]
+                },
+                { "direction": "column",
+                  "content": [
+                    { "section": "Base 2 Play" },
+                    { "section": "Base 2 Resources"}
+                  ]
+                },
+                { "direction": "column",
+                  "content": [
+                    { "section": "Base 3 Play" },
+                    { "section": "Base 3 Resources" }
+                  ]
+                }
+              ]
+            }
+          ]
         },
+
+
+        //stuff yeah
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "Field": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 1 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 1 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base 2 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 2 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base 3 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 3 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
         }
       }
     }
