@@ -1,0 +1,2700 @@
+{
+  "OGN-001": {
+    "id": "OGN-001",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ghetram, Stalwart Shield"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137714248523866/OGN_GhetramStalwartShield.png?ex=6a90232a&is=6a8ed1aa&hm=277647841731a8b559bed6c5c6d64c32f6f6b6b343a061badd3d4a0e5a0304f4&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Ghetram, Stalwart Shield",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-002": {
+    "id": "OGN-002",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Alrach, Newly Foundry"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137714797969469/OGN_AlrachNewlyPromoted.png?ex=6a90232a&is=6a8ed1aa&hm=90b0ddbc886371fd404ba0eaa9024ff48bcb53143344605f579f8063e7e10315&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Alrach, Newly Foundry",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-003": {
+    "id": "OGN-003",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Camme, the Hopeful"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137715649282048/OGN_CammeTheHopeful.png?ex=6a90232a&is=6a8ed1aa&hm=6f14b1470b1fcd8ae7162636d8137d2c2f3cb3d96d2c7e55f5790cb5aeea6caa&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Camme, the Hopeful",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-004": {
+    "id": "OGN-004",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Drum, Army Priest"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137716354060448/OGN_DrumArmyPriest.png?ex=6a90232b&is=6a8ed1ab&hm=b9ddbc671fbf2c3de19deb9848c3c17a54e93439df94feddb0c04d2de700abf0&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Drum, Army Priest",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-005": {
+    "id": "OGN-005",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Iron Cudgel Recruit"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137717046124655/OGN_IronCudgelRecruit.png?ex=6a90232b&is=6a8ed1ab&hm=7f5c6cf7b5f3a06551b788c9b97fe0f80e1f6d117f3ad69ebf69296e9c7640e1&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Iron Cudgel Recruit",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-006": {
+    "id": "OGN-006",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Iron Cudgel Yeller"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137717603827792/OGN_IronCudgelYeller.png?ex=6a90232b&is=6a8ed1ab&hm=32badb4545609e842e9c0099b15de54f38c6f0a3f351adde0ddf2eecabf1661b&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Iron Cudgel Yeller",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-007": {
+    "id": "OGN-007",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hrynthian Shielder"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137718417395763/OGN_HrynthianShielder.png?ex=6a90232b&is=6a8ed1ab&hm=bde24f9cdc52313dfee0d156ac0a68cb799d7abe0ba81b53f7b35031f4a50adf&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Hrynthian Shielder",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-008": {
+    "id": "OGN-008",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cuirassed Cannonball"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137719529152522/OGN_CuirassedCannonball.png?ex=6a90232b&is=6a8ed1ab&hm=79d84ebbcdc8f94d81e45bf1c0950f485dc262dc0e6599efc387ef7236456615&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Cuirassed Cannonball",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-009": {
+    "id": "OGN-009",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rally the People"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137721047351297/OGN_RallyThePeople.png?ex=6a90232c&is=6a8ed1ac&hm=a391ffd509e23beb1f250ac97f7cd98d3cdf1e5e160a8d70588c11c6d51c5363&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Rally the People",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-010": {
+    "id": "OGN-010",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dismiss"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542137721609523280/OGN_Dismiss.png?ex=6a90232c&is=6a8ed1ac&hm=02096f751b38b546ee7ef05caacb4267f7cc3910b6989f07e042eebcd35e824e&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Dismiss",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-011": {
+    "id": "OGN-011",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Valiant Steed"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138325358354482/OGN_ValiantSteed.png?ex=6a9023bc&is=6a8ed23c&hm=ec17795db67afd1cffb0207ccb71e84b9078e7d3b84550cc1d19f5f7f8bc7624&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Valiant Steed",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-012": {
+    "id": "OGN-012",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Royal Jailer"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138325719056484/OGN_RoyalJailer.png?ex=6a9023bc&is=6a8ed23c&hm=d87eed5b67fec70f4a5ce16ce3f184800795a66e40e8c6886ff2ee17bf51e488&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Royal Jailer",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-013": {
+    "id": "OGN-013",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Deflect Trauma"
+        },
+        "type": "Skill",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138326088421386/OGN_DeflectTrauma.png?ex=6a9023bc&is=6a8ed23c&hm=d02e3832630b6dce355fd3779b33086de4e503ff47d6c10fdd0d0632312bdedf&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Deflect Trauma",
+    "type": "Skill",
+    "cost": "5",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-014": {
+    "id": "OGN-014",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fog Blast"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138326469971968/OGN_FogBlast.png?ex=6a9023bc&is=6a8ed23c&hm=83eeb7fe342ab8f6b4fc76510bf3339ce5ccfbc24ca48ad94d6a504c9023d7f5&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Fog Blast",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-015": {
+    "id": "OGN-015",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sparring Partner"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138326834880602/OGN_SparringPartner.png?ex=6a9023bc&is=6a8ed23c&hm=af2f9abb7a62f12bf36b085ba60acb5f9c413b35925491cea2e9d82500d9a47a&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Sparring Partner",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-016": {
+    "id": "OGN-016",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Protective Sigil"
+        },
+        "type": "Equipment",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138327271219251/OGN_ProtectiveSigil.png?ex=6a9023bc&is=6a8ed23c&hm=8352f75a5b1e3e489f50262d9e652552bd449aec6d6736416acb1c4fe16c87fd&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Protective Sigil",
+    "type": "Equipment",
+    "cost": "4",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-017": {
+    "id": "OGN-017",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Impassioned Weenie"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138327640309770/OGN_ImpassionedWeenie.png?ex=6a9023bc&is=6a8ed23c&hm=b8e8cb007546c1b6f5b182a5e1deb4379b3ea827c0309dd1edcece6a1be36cf6&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Impassioned Weenie",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-018": {
+    "id": "OGN-018",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Military Ward"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138328004956170/OGN_MilitaryWard.png?ex=6a9023bc&is=6a8ed23c&hm=cd70f3529c1728748f0bca0708757691d8daf003423035ac1925ebe7964976e8&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Military Ward",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-019": {
+    "id": "OGN-019",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Defense Armory"
+        },
+        "type": "Equipment",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138328403542036/OGN_DefenseArmory.png?ex=6a9023bd&is=6a8ed23d&hm=6e12f8e9bee6d5528f3f5a1c784521918d71cd75342de65ef20586cc1f237cf5&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Defense Armory",
+    "type": "Equipment",
+    "cost": "3",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-020": {
+    "id": "OGN-020",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast of the Monastery"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542138328755740752/OGN_BeastOfTheMonastery.png?ex=6a9023bd&is=6a8ed23d&hm=71e7a7510095a6f00f185efd81078fbc9d7a75dd8ad98c2c292472f050ae8dd0&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Beast of the Monastery",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Light",
+    "isisToken": "FALSE"
+  },
+  "OGN-021": {
+    "id": "OGN-021",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hefen, Abyssal Prosecutor"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139232129253458/OGN_HefenAbyssalProsecutor.png?ex=6a902494&is=6a8ed314&hm=9a62931ebd8b54ee07138dbed1e8ad7e94aab16083cd55e3ea66c7c03bb321bf&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Hefen, Abyssal Prosecutor",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-022": {
+    "id": "OGN-022",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nor, Primordial Demon"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139232594960474/OGN_NorPrimordialDemon.png?ex=6a902494&is=6a8ed314&hm=50e87824ce96a261cb905da0eb2f89fd4b04ffb5e420bb0d1f6d3415fde97323&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Nor, Primordial Demon",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-023": {
+    "id": "OGN-023",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fae'li, the Larcenist"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139233043742760/OGN_FaeliTheLarcenist.png?ex=6a902494&is=6a8ed314&hm=73cdc59972aaa35848aef0c866122f8fa8fc51934f75e28f90074e0c4c56ee11&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Fae'li, the Larcenist",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-024": {
+    "id": "OGN-024",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Haj, Companion?"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139233471438919/OGN_HajCompanion.png?ex=6a902494&is=6a8ed314&hm=952415728bd69f40d2572e84d226ccfdf7de98655200eee7883fda2c3a40a452&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Haj, Companion?",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-025": {
+    "id": "OGN-025",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vanish"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139233865699348/OGN_Vanish.png?ex=6a902494&is=6a8ed314&hm=98ce836145e2611a6d35b901a8d8fb4579db63c1624c178abfdeea2986f3ac88&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Vanish",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-026": {
+    "id": "OGN-026",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demon Beam"
+        },
+        "type": "Skill",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139234356563998/OGN_DemonBeam.png?ex=6a902495&is=6a8ed315&hm=19543a036cadfa4580a4890cf5f46f3e55eae0a4aaedc4e153e38c2188ee9595&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Demon Beam",
+    "type": "Skill",
+    "cost": "6",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-027": {
+    "id": "OGN-027",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Starve"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139234788573255/OGN_Starve.png?ex=6a902495&is=6a8ed315&hm=54cc265b0ca3826c6100c4f5a9487060fe60c6cd214b10df500bd342afd4c2bd&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Starve",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-028": {
+    "id": "OGN-028",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unpaid Undertaker"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139235639754763/OGN_UnpaidUndertaker.png?ex=6a902495&is=6a8ed315&hm=bc60cfc9e53997e9f064b8c7209ae2fdf688aae1004389e2e669246f0f45e37c&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Unpaid Undertaker",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-029": {
+    "id": "OGN-029",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Imposing Figure"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139236025638932/OGN_ImposingFigure.png?ex=6a902495&is=6a8ed315&hm=efb109d82779154f9f4b5efe7306682c3db199d53a7ccbaef7dfad5fa8ef31f0&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Imposing Figure",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-030": {
+    "id": "OGN-030",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Butcher's Servant"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139236512174161/OGN_ButchersServant.png?ex=6a902495&is=6a8ed315&hm=45e242a2d10638f870d4ada39da8664fa444787e0921c118b9eabbdd6fe26f0b&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Butcher's Servant",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-031": {
+    "id": "OGN-031",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crypt Crawler"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139698313568296/OGN_CryptCrawler.png?ex=6a902503&is=6a8ed383&hm=5b0f708ebafe2c5fa52dc4f4957737e1fee7db9f48800230639e5f5fd88586b4&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Crypt Crawler",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-032": {
+    "id": "OGN-032",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Corpse Explosion"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139698640715927/OGN_CorpseExplosion.png?ex=6a902503&is=6a8ed383&hm=4d2c1e99f60e14b1c5ae6b4b8220cf74e4bef34ed8c271a71a2893d9f27608ae&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Corpse Explosion",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-033": {
+    "id": "OGN-033",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reanimate"
+        },
+        "type": "Skill",
+        "cost": "7",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139698997104710/OGN_Reanimate.png?ex=6a902503&is=6a8ed383&hm=f851f6cebc26c164a5761ece7bd046084fd37a9f34aa6665c638c452905d2e2a&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Reanimate",
+    "type": "Skill",
+    "cost": "7",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-034": {
+    "id": "OGN-034",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Call to the Back"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139699328589884/OGN_CallToTheBack.png?ex=6a902503&is=6a8ed383&hm=06ea9860700df467298e82b07e5c363af955d37226764b8500f6ff8071566029&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Call to the Back",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-035": {
+    "id": "OGN-035",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Baby Snatcher"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139699676577822/OGN_BabySnatcher.png?ex=6a902503&is=6a8ed383&hm=ee5e8c843227bb7bf391aada0b939ee81c83df4e3aaf1479c9fbbafbc9ad5f37&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Baby Snatcher",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-036": {
+    "id": "OGN-036",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Laughing Hex"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139700008194068/OGN_LaughingHex.png?ex=6a902504&is=6a8ed384&hm=990557f67e9dd1ae6f9747d35eab43accf7e284103e264168cde9a78d0e18856&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Laughing Hex",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-037": {
+    "id": "OGN-037",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Village Impostor"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139700415037501/OGN_VillageImpostor.png?ex=6a902504&is=6a8ed384&hm=7b54385110ef7a2105d67e624864e98b94b356ef70eee99fab4ecfd2da34e91c&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Village Impostor",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-038": {
+    "id": "OGN-038",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Swear Jar"
+        },
+        "type": "Equipment",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139700771426444/OGN_SwearJar.png?ex=6a902504&is=6a8ed384&hm=d12b4087266ea1d8607a5b3f0fada60636d4f12106d35f7c252f9ba1f7cad1d9&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Swear Jar",
+    "type": "Equipment",
+    "cost": "1",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-039": {
+    "id": "OGN-039",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Plague Spreader"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139701123612763/OGN_PlagueSpreader.png?ex=6a902504&is=6a8ed384&hm=50c259d26b7d0805bda5bc3c9f4f1e826c06214dce173f4f6400a12ed5a463b0&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Plague Spreader",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-040": {
+    "id": "OGN-040",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast of the Abattoir"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542139701467549817/OGN_BeastOfTheAbattoir.png?ex=6a902504&is=6a8ed384&hm=b258be99381f507183dde7b4a92c5a3b7029790b1e694b68a5263c2ea1f57ceb&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Dark"
+      }
+    },
+    "name": "Beast of the Abattoir",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Dark",
+    "isisToken": "FALSE"
+  },
+  "OGN-041": {
+    "id": "OGN-041",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Yel'mar, Without Epithets"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140355296628796/OGN_YelmarWithoutEpithets.png?ex=6a9025a0&is=6a8ed420&hm=b53054726ba60a5e7353c7aadea023dda17af9a0fa14589677841dad8a65a7ff&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Yel'mar, Without Epithets",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-042": {
+    "id": "OGN-042",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cir'mar, Keeper of Codes"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140355774910544/OGN_CirmarKeeperOfCodes.png?ex=6a9025a0&is=6a8ed420&hm=0b231bd05e761f9afda967200a70dbf322e05f3cca60aa47424080383fa66ac4&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Cir'mar, Keeper of Codes",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-043": {
+    "id": "OGN-043",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vaja, the Runaway"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140356517306449/OGN_VajaTheRunaway.png?ex=6a9025a0&is=6a8ed420&hm=1a019bd47e8ef66a26fc59153b771e091f0f826595d380a26d01f29a77681e88&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Vaja, the Runaway",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-044": {
+    "id": "OGN-044",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Books, Secrets Guy"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140357264023724/OGN_BooksSecretsGuy.png?ex=6a9025a0&is=6a8ed420&hm=6efa1f8962546cdb69ca9cce73c89d6b0f47a463856ce1c951f3930a93ac3180&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Books, Secrets Guy",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-045": {
+    "id": "OGN-045",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Seek Answers"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140357926453278/OGN_SeekAnswers.png?ex=6a9025a0&is=6a8ed420&hm=143887e9ecf120a022e65f6a9556eec259cdf2323a8c7241357e73c3d20a88a8&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Seek Answers",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-046": {
+    "id": "OGN-046",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Precognition"
+        },
+        "type": "Skill",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140358593482882/OGN_Precognition.png?ex=6a9025a1&is=6a8ed421&hm=42141cd3555d4b1a5cd12beede3b6282c47763df150df929763e53fddf9f2341&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Precognition",
+    "type": "Skill",
+    "cost": "5",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-047": {
+    "id": "OGN-047",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Stash"
+        },
+        "type": "Equipment",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140359386210334/OGN_SecretStash.png?ex=6a9025a1&is=6a8ed421&hm=fb5abb7a9194ed6c972ab45aee6ca65610fb467f0b8c930cf983999cade98411&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Secret Stash",
+    "type": "Equipment",
+    "cost": "2",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-048": {
+    "id": "OGN-048",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Armed Librarian"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140359835131934/OGN_ArmedLibrarian.png?ex=6a9025a1&is=6a8ed421&hm=6303f9e92701e2778bcd39c1d84d28b6222a53bc4b9fb8d2f6f987eab4f66629&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Armed Librarian",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-049": {
+    "id": "OGN-049",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spring Trap"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140360166211786/OGN_SpringTrap.png?ex=6a9025a1&is=6a8ed421&hm=cd9ead29abdd06715068f6f60476784ee1892088461f88e06307417e3814831d&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Spring Trap",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-050": {
+    "id": "OGN-050",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wind Channeler"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140360577515540/OGN_WindChanneler.png?ex=6a9025a1&is=6a8ed421&hm=2451ac73300b2d00072712e3da6a69c1ed0d57ddb5d6d5f3848d00f2d028d5ca&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Wind Channeler",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-051": {
+    "id": "OGN-051",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flowing Water"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140922215800873/OGN_FlowingWater.png?ex=6a902627&is=6a8ed4a7&hm=aa34ef6e1af53d0a3c3cd9d9a0f4993fa1e4c12f3eca610050f2ea8ad48f03b2&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Flowing Water",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-052": {
+    "id": "OGN-052",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Palm of Stopping"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140922693816380/OGN_PalmOfStopping.png?ex=6a902627&is=6a8ed4a7&hm=2c3035dd6abbcb0bbc24433c0c2390eb2a49a767a1914b87e7abfb9517ca13a2&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Palm of Stopping",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-053": {
+    "id": "OGN-053",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tempest Shoebill"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140923281145957/OGN_TempestShoebill.png?ex=6a902627&is=6a8ed4a7&hm=870fc09ae7682ad4f8473ad29bd31fa1926cf5827f2fe1b28dff20e4f21f2114&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Tempest Shoebill",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-054": {
+    "id": "OGN-054",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crawl Out"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140923784470600/OGN_CrawlOut.png?ex=6a902627&is=6a8ed4a7&hm=1940e2e4d6c5c50b17d94c1f02afc4f8f76328df006e975280dceb7cfb7df298&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Crawl Out",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-055": {
+    "id": "OGN-055",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mental Block"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140924342177872/OGN_MentalBlock.png?ex=6a902627&is=6a8ed4a7&hm=cc35ff6a27ba082a1b500c4fc22ed23ef005e4bcc31738f8e17c52b1d46ce724&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Mental Block",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-056": {
+    "id": "OGN-056",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Scour"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140925319581838/OGN_Scour.png?ex=6a902628&is=6a8ed4a8&hm=6562dbe9f94c8152f37200e966ac354d73b9f8f24919fbd88897049b64c8c940&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Scour",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-057": {
+    "id": "OGN-057",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Avian Gust"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140926137212998/OGN_AvianGust.png?ex=6a902628&is=6a8ed4a8&hm=d36fefcf9217fea7b7d5071f0ca3feab299b1c81fc1400ac07a95b83c73b55fc&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Avian Gust",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-058": {
+    "id": "OGN-058",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Smart Fish"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140926846042162/OGN_SmartFish.png?ex=6a902628&is=6a8ed4a8&hm=60921a0f52ef960c7cf323bc2c91e0d79d2a9f5d428254384a4afcdfaada4fb4&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Smart Fish",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-059": {
+    "id": "OGN-059",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Oingabing!"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140927387238430/OGN_Oingabing.png?ex=6a902628&is=6a8ed4a8&hm=0ddc345b2804eaaa1072aafd62b5b2519eec890438586c01cff79f28de9b4995&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Oingabing!",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-060": {
+    "id": "OGN-060",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast of the Treasury"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542140927882305566/OGN_BeastOfTheTreasury.png?ex=6a902628&is=6a8ed4a8&hm=3fb7fb25bbff703324d85f28b019dfd77df0b8bf3f6fb5e04d021dcbb9b94757&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Beast of the Treasury",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Mind",
+    "isisToken": "FALSE"
+  },
+  "OGN-061": {
+    "id": "OGN-061",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bort, Burner of Evils"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141605413265458/OGN_BortBurnerOfEvils.png?ex=6a9026ca&is=6a8ed54a&hm=f297028f86144d24375960e6344082bbf1ec6acc1cf7493d1977af743811d4fe&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Bort, Burner of Evils",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-062": {
+    "id": "OGN-062",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Misch, Finder of Means"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141606172295220/OGN_MischFinderOfMeans.png?ex=6a9026ca&is=6a8ed54a&hm=3bf14bb672c0331687b9b4de33fd7e10392fa171823164d783a7a3464fb40264&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Misch, Finder of Means",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-063": {
+    "id": "OGN-063",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grys, the Strategist"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141608537890896/OGN_GrysTheStrategist.png?ex=6a9026cb&is=6a8ed54b&hm=ff6cf325382e2f962452dec6d10bacfa2e9e6ce0c8c9652ddb0c2417116368ba&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Grys, the Strategist",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-064": {
+    "id": "OGN-064",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tilo, Reckless Prince"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141609859227748/OGN_TiloRecklessPrince.png?ex=6a9026cb&is=6a8ed54b&hm=f21567a14c1d5e7239f8c35fed7158f023114e79b03e850b6f155b3bb8dccab9&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Tilo, Reckless Prince",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-065": {
+    "id": "OGN-065",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Bolt"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141610769514516/OGN_FireBolt.png?ex=6a9026cb&is=6a8ed54b&hm=4ba3c7b9e7bd93e9d8fe1dabde0eff6a0ddc62a582eb4326d70b26e2db39c685&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Fire Bolt",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-066": {
+    "id": "OGN-066",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Skittering Ember"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141611889131540/OGN_SkitteringEmber.png?ex=6a9026cb&is=6a8ed54b&hm=32ca1fd0a27ceb508dfaeb6711c01f3143a6cedc26d71bad940fc9134869b789&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Skittering Ember",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-067": {
+    "id": "OGN-067",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dwarven Dynamite"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141612799426570/OGN_DwarvenDynamite.png?ex=6a9026cc&is=6a8ed54c&hm=0db979df44fb20df956a6508f6abdbd56ad7cdea9076d7492120598120534608&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Dwarven Dynamite",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-068": {
+    "id": "OGN-068",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gravel Chewer"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141613583638568/OGN_GravelChewer.png?ex=6a9026cc&is=6a8ed54c&hm=d0696f006f8b5b0e8e5c5f2b98af520af57c2bac45243b81eff0794a2399b46c&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Gravel Chewer",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-069": {
+    "id": "OGN-069",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mohunt Runner"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141614347124756/OGN_MohuntRunner.png?ex=6a9026cc&is=6a8ed54c&hm=915c3ae5d403ba95d2f2f8dba47cf2edd083f6d5307f66b54c5aecd800033344&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Mohunt Runner",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-070": {
+    "id": "OGN-070",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mohunt Furnace"
+        },
+        "type": "Equipment",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542141615387447318/OGN_MohuntFurnace.png?ex=6a9026cc&is=6a8ed54c&hm=b32118e17adddcca48a6357f3a88fab52a0cc3442293ee43933e6dc55fb4b5b1&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Mohunt Furnace",
+    "type": "Equipment",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-071": {
+    "id": "OGN-071",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Red Barrage"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142110180843614/OGN_RedBarrage.png?ex=6a902742&is=6a8ed5c2&hm=c226d109855d5dd5ed40a01ad46586e405af8e263d67c9a1b266a8a26c202b50&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Red Barrage",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-072": {
+    "id": "OGN-072",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strike While Hot"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142110596202506/OGN_StrikeWhileHot.png?ex=6a902742&is=6a8ed5c2&hm=063c8ab5b929a615c1e9197b6cdd5df55d366fd12f1dc4d0137d25c129b38bae&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Strike While Hot",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-073": {
+    "id": "OGN-073",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Melt Down"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142111053254686/OGN_MeltDown.png?ex=6a902742&is=6a8ed5c2&hm=f1d2765ad9f9d3af1d640fa9c1e860c0c47b0ffac72911f317b477e56c585947&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Melt Down",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-074": {
+    "id": "OGN-074",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Baleful Flame"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142111548178492/OGN_BalefulFlame.png?ex=6a902743&is=6a8ed5c3&hm=1a0b6dc58d0145b02c6dc6c002cf26008182748ad9ae6c6028e306fba1c3eef6&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Baleful Flame",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-075": {
+    "id": "OGN-075",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Battling Ram"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142112328327288/OGN_BattlingRam.png?ex=6a902743&is=6a8ed5c3&hm=0dd5b34c51867f34a0515564bbdf0a7188a5e9d9f93dfae0ebf4aef3c13202da&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Battling Ram",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-076": {
+    "id": "OGN-076",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Miner on Fire"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142113234550844/OGN_MinerOnFire.png?ex=6a902743&is=6a8ed5c3&hm=09fd3d6601c13328e41d756c81f4ce7b6c9084fa9253256a91ef7f449775eb65&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Miner on Fire",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-077": {
+    "id": "OGN-077",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Breath of the Oven"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142113959907340/OGN_BreathOfTheOven.png?ex=6a902743&is=6a8ed5c3&hm=eb98163c250527997cd50a1ead7eb9ac5aba87278422d7944d0e58d69f9591d6&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Breath of the Oven",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-078": {
+    "id": "OGN-078",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mountain's Anger"
+        },
+        "type": "Skill",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142114605834240/OGN_MountainsAnger.png?ex=6a902743&is=6a8ed5c3&hm=a69bf915ecc31505aaabe673aad98442af22337897b9db0f09ff722b4a370420&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Mountain's Anger",
+    "type": "Skill",
+    "cost": "6",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-079": {
+    "id": "OGN-079",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lava Sniper"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142115201421372/OGN_LavaSniper.png?ex=6a902743&is=6a8ed5c3&hm=462d8e940d8f6bfdd0a5ec149ad00ddd621421508125c816dacf9194a92235b5&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Lava Sniper",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-080": {
+    "id": "OGN-080",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast of the Burrows"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142115902132225/OGN_BeastOfTheBurrows.png?ex=6a902744&is=6a8ed5c4&hm=089839c5e653585efd0242519adcc1c3bdb0cb687eb904c37f2361875d668ecc&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Soul"
+      }
+    },
+    "name": "Beast of the Burrows",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Soul",
+    "isisToken": "FALSE"
+  },
+  "OGN-081": {
+    "id": "OGN-081",
+    "face": {
+      "front": {
+        "name": {
+          "name": "King Yiret the Fifteenth"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142625338101880/OGN_KingYiretTheFifteenth.png?ex=6a9027bd&is=6a8ed63d&hm=cae78f5eb739983b9586e0bdd0666881dda98d75f4eb1b3af5be9992641a63a1&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "King Yiret the Fifteenth",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-082": {
+    "id": "OGN-082",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lucra, Engineer of War"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142625828708482/OGN_LucraEngineerOfWar.png?ex=6a9027bd&is=6a8ed63d&hm=97267e16fa33eafa04279841fad4aa63dd3a633539a5e76c22fbfa37b0e3f2a0&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Lucra, Engineer of War",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-083": {
+    "id": "OGN-083",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hart, the Ingenious"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142626327953491/OGN_HartTheIngenious.png?ex=6a9027bd&is=6a8ed63d&hm=1d8b76eaf0604eaf9231baa286fd04e7409c34882d465cf02147e76bafe34ed9&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Hart, the Ingenious",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-084": {
+    "id": "OGN-084",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Termino, Sick as Hell"
+        },
+        "type": "Unit",
+        "cost": "10",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142626663370822/OGN_TerminoSickAsHell.png?ex=6a9027bd&is=6a8ed63d&hm=e7968b588e3c21a6b0745d28903f435361ef005cbe8ac2507c47e477303b97a1&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Termino, Sick as Hell",
+    "type": "Unit",
+    "cost": "10",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-085": {
+    "id": "OGN-085",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Robot Bear"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142627032338533/OGN_RobotBear.png?ex=6a9027bd&is=6a8ed63d&hm=7821950e6a2647dcd6a7e89681bc4a618293bfc86566dfd27bafd35bc93a710d&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Robot Bear",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-086": {
+    "id": "OGN-086",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stroke of Innovation"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142627493716158/OGN_StrokeOfInnovation.png?ex=6a9027be&is=6a8ed63e&hm=1a7f06f1c6e8b6854faafe8430d81da89a5828fd508b3e97809908e27cb73997&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Stroke of Innovation",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-087": {
+    "id": "OGN-087",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Memory Globule"
+        },
+        "type": "Equipment",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142627959545936/OGN_MemoryGlobule.png?ex=6a9027be&is=6a8ed63e&hm=bddfdb8e189f4c959425467b2beda70a50dbac829ab3876dd0108446ce079bcc&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Memory Globule",
+    "type": "Equipment",
+    "cost": "1",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-088": {
+    "id": "OGN-088",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bite-sized Butler"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142628479500440/OGN_BiteSizedButler.png?ex=6a9027be&is=6a8ed63e&hm=bb27a92ce53e8bb73ec4a7c8897becb291619135d2145449a17611c9584250f5&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Bite-sized Butler",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-089": {
+    "id": "OGN-089",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fated Folio"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142628857122936/OGN_FatedFolio.png?ex=6a9027be&is=6a8ed63e&hm=9c89fe13f931c80b13b9791a3ecb467c7a69cc82a1198db5937799888bf085ee&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Fated Folio",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-090": {
+    "id": "OGN-090",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fight Night"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542142629247066142/OGN_FightNight.png?ex=6a9027be&is=6a8ed63e&hm=87172193e9119838f6a5a78fb5fe5dadbb9e84000bb042a6843ba5f22e4e70d3&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Fight Night",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-091": {
+    "id": "OGN-091",
+    "face": {
+      "front": {
+        "name": {
+          "name": "King's Decree"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145109628428318/OGN_KingsDecree.png?ex=6a902a0d&is=6a8ed88d&hm=88f299e57163a0854067da3dd58262a0bacf710add709ff4db91a9f9b85b0f7d&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "King's Decree",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-092": {
+    "id": "OGN-092",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beef Up"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145110316286052/OGN_BeefUp.png?ex=6a902a0d&is=6a8ed88d&hm=7ffd06874dcb4dde10ca2842063209b8f71d45a13c60839fde8258ed4a2dcf8a&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Beef Up",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-093": {
+    "id": "OGN-093",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Model Champ"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145110806892664/OGN_ModelChamp.png?ex=6a902a0e&is=6a8ed88e&hm=7bd96b02642f85ca96a700a96b91ba1502621a88656bc043d5cceb6a3107d0da&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Model Champ",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-094": {
+    "id": "OGN-094",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spirited Armor"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145111520051271/OGN_SpiritedArmor.png?ex=6a902a0e&is=6a8ed88e&hm=60e9bfd4e2331794c033e84fdbebceadbd8959aa80ef28fd0025b74889468943&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Spirited Armor",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-095": {
+    "id": "OGN-095",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Intimidate"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145112111321128/OGN_Intimidate.png?ex=6a902a0e&is=6a8ed88e&hm=3a457a26a563a4c3a04acf2dca387b1b2cc8089dd843a224a37b05c05720c3ff&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Intimidate",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-096": {
+    "id": "OGN-096",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Steel Mimic"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145112660779008/OGN_SteelMimic.png?ex=6a902a0e&is=6a8ed88e&hm=19e7ed783b64cb3636752a43aad11642d2d3f8ada7398390d0537bfffc9adb04&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Steel Mimic",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-097": {
+    "id": "OGN-097",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lone Fighter"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145113113895022/OGN_LoneFighter.png?ex=6a902a0e&is=6a8ed88e&hm=07ae434e7cdebe036aadfab7bc0b40d7a9579ffd5f732a0e8069ec93274bc472&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Lone Fighter",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-098": {
+    "id": "OGN-098",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bloodied Brawler"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145113625591920/OGN_BloodiedBrawler.png?ex=6a902a0e&is=6a8ed88e&hm=a3cff3c93965dc690e955fe9aa5695e3e94a0b1050ecae814316d73631654a29&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Bloodied Brawler",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-099": {
+    "id": "OGN-099",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Structural Reinforcement"
+        },
+        "type": "Equipment",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145114527236116/OGN_StructuralReinforcement.png?ex=6a902a0e&is=6a8ed88e&hm=e41909cf51d2e704939b1d98d1387370ca1ccf4128ee649861177f974d4b62c8&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Structural Reinforcement",
+    "type": "Equipment",
+    "cost": "6",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-100": {
+    "id": "OGN-100",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast of the Walls"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145115181817936/OGN_BeastOfTheWalls.png?ex=6a902a0f&is=6a8ed88f&hm=73246092671f83fc8489c493da67eb114dd1f44aa10321fa1924c024a2ba0bb5&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Beast of the Walls",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Conquest",
+    "isisToken": "FALSE"
+  },
+  "OGN-101": {
+    "id": "OGN-101",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Temnas, Maned Hierophant"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145814586204221/OGN_TemnasManedHierophant.png?ex=6a902ab5&is=6a8ed935&hm=ff30f23cf96308e0a919d9c3f8d79b964327153706446605e940f930541e17fc&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Temnas, Maned Hierophant",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-102": {
+    "id": "OGN-102",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Skar, Ferocity Incarnate"
+        },
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145815563210865/OGN_SkarFerocityIncarnate.png?ex=6a902ab6&is=6a8ed936&hm=0661f3c53ccded48b0f98dfd925eaa5a16dee473fa24f6f2e09b7e9b2f04eb50&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Skar, Ferocity Incarnate",
+    "type": "Unit",
+    "cost": "8",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-103": {
+    "id": "OGN-103",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Firrik, the Caretaker"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145816075182091/OGN_FirrikTheCaretaker.png?ex=6a902ab6&is=6a8ed936&hm=bdb226ba0d5b0054c82c23c9c9085911e9fb009fa48151026ea37eba41eae933&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Firrik, the Caretaker",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-104": {
+    "id": "OGN-104",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Porti, Friendly Fern"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145816674832384/OGN_PortiFriendlyFern.png?ex=6a902ab6&is=6a8ed936&hm=397c73135f3ae3b4298bff954236b01b02c8cf5462db7f0556d2282dcd77e0f1&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Porti, Friendly Fern",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-105": {
+    "id": "OGN-105",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Woodland Bear"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145817169887325/OGN_WoodlandBear.png?ex=6a902ab6&is=6a8ed936&hm=ed84489c7a851bd587c021446f5be05447fd18d02eeae34b4e9dca9be213177b&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Woodland Bear",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-106": {
+    "id": "OGN-106",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arvan Sprout"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145818277187634/OGN_ArvanSprout.png?ex=6a902ab6&is=6a8ed936&hm=1c63b7688e317a45312474cc81c172c7442eff24889e1df0afc792db9582cf29&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Arvan Sprout",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-107": {
+    "id": "OGN-107",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cultivate"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145818717331536/OGN_Cultivate.png?ex=6a902ab6&is=6a8ed936&hm=7ca9eed0a9439a2d98465a83ff4c0bbbae83e002179daed87950483766661370&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Cultivate",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-108": {
+    "id": "OGN-108",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Explore"
+        },
+        "type": "Skill",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145819271110666/OGN_Explore.png?ex=6a902ab6&is=6a8ed936&hm=7962a783c0c23b95f31755170d6bc5944d7d01f7e941234e373e2fa86ff738c0&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Explore",
+    "type": "Skill",
+    "cost": "5",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-109": {
+    "id": "OGN-109",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forest Ascetic"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145819686477965/OGN_ForestAscetic.png?ex=6a902ab7&is=6a8ed937&hm=f98b05b48d23195357802bda1ed9e5cd85b997c775bcf49439e0af1e61c3e181&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Forest Ascetic",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-110": {
+    "id": "OGN-110",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Naturalize"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542145820176949398/OGN_Naturalize.png?ex=6a902ab7&is=6a8ed937&hm=85671a44450722ebbd265eb6427a2c92f12a3b04734293cf5c5cf515a77e1417&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Naturalize",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-111": {
+    "id": "OGN-111",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rust Away"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146267717570590/OGN_RustAway.png?ex=6a902b21&is=6a8ed9a1&hm=3bad5271e578a673289162600884917830c15d46f6ce12ddc9865329b0990ab4&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Rust Away",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-112": {
+    "id": "OGN-112",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Druidic Archstone"
+        },
+        "type": "Equipment",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146268116025385/OGN_DruidicArchstone.png?ex=6a902b22&is=6a8ed9a2&hm=c23e1c7624f0aea2783fe1fd1545a79bfb939d56af8a7ac7e433e8e02ad5b964&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Druidic Archstone",
+    "type": "Equipment",
+    "cost": "5",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-113": {
+    "id": "OGN-113",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Monstrous Fearjaw"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146268602572810/OGN_MonstrousFearjaw.png?ex=6a902b22&is=6a8ed9a2&hm=c644ce271a019c695c7655149119fff1e9d7417e3f518398ece6ea37c8b4b01d&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Monstrous Fearjaw",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-114": {
+    "id": "OGN-114",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crushing Hoof"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146269114531870/OGN_CrushingHoof.png?ex=6a902b22&is=6a8ed9a2&hm=b86e3d6c729d08efeeb2b15a7d032617bb9e9acca5aba9fd04555ba03b7991c2&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Crushing Hoof",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-115": {
+    "id": "OGN-115",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Land's Fury"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146269408006275/OGN_LandsFury.png?ex=6a902b22&is=6a8ed9a2&hm=9687ec612f47ab4d747f7464982ec82a603b07f03557fc5ebd5c92c745f11929&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Land's Fury",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-116": {
+    "id": "OGN-116",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Prayer to the Copse"
+        },
+        "type": "Skill",
+        "cost": "5",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146269814849536/OGN_PrayerToTheCopse.png?ex=6a902b22&is=6a8ed9a2&hm=b67df4895c50c9d207cb8d8ead0577864903a3060b5b400467df98fba55565f2&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Prayer to the Copse",
+    "type": "Skill",
+    "cost": "5",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-117": {
+    "id": "OGN-117",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Slithering Vine"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146270142013470/OGN_SlitheringVine.png?ex=6a902b22&is=6a8ed9a2&hm=18f86a7da79ee3dda86034efaf80f116b7c2fe822e95377b99ab557a2a654abe&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Slithering Vine",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-118": {
+    "id": "OGN-118",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Smothering Shield"
+        },
+        "type": "Equipment",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146270498652200/OGN_SmotheringShield.png?ex=6a902b22&is=6a8ed9a2&hm=f58256057ff0f74e2950cc671c8f2df9dc082fd14422520684e6e61404508ab1&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Smothering Shield",
+    "type": "Equipment",
+    "cost": "6",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-119": {
+    "id": "OGN-119",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bestial Loreguard"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146270901178378/OGN_BestialLoreguard.png?ex=6a902b22&is=6a8ed9a2&hm=ba8ad1718aba0b9384ea66bd8a734b8c39d95a18be746b7ec2c7dafa742e33ff&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Bestial Loreguard",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-120": {
+    "id": "OGN-120",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast of the Clearing"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542146271312224316/OGN_BeastOfTheClearing.png?ex=6a902b22&is=6a8ed9a2&hm=6c6d805c2dd0e5417428fbc8f51cec59014ad5bb95f677991c90491b54b1364e&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Nature"
+      }
+    },
+    "name": "Beast of the Clearing",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Nature",
+    "isisToken": "FALSE"
+  },
+  "OGN-121": {
+    "id": "OGN-121",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Frontal Theater"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152120227332196/OGN_FrontalTheater.png?ex=6a903095&is=6a8edf15&hm=1103285b4b8d1d4b727933ee084c624df8bb0de7385e3e28d8f234bd24aa9885&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Frontal Theater",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-122": {
+    "id": "OGN-122",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Panic Shelter"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152120227332196/OGN_FrontalTheater.png?ex=6a903095&is=6a8edf15&hm=1103285b4b8d1d4b727933ee084c624df8bb0de7385e3e28d8f234bd24aa9885&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Panic Shelter",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-123": {
+    "id": "OGN-123",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Conqueror's Throne"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152121074589756/OGN_ConquerorsThrone.png?ex=6a903095&is=6a8edf15&hm=5b2ab348393620277bc3ed72dae01f09c58a0278a8134e9eb26f989d5c5b5c9e&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Conqueror's Throne",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-124": {
+    "id": "OGN-124",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Foggy Harbor"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152121506332732/OGN_FoggyHarbor.png?ex=6a903095&is=6a8edf15&hm=c11a380194e3cd88874acba521906d918a1d1d0375cbb33c6e7a0f6a5cb5826d&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Foggy Harbor",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-125": {
+    "id": "OGN-125",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rigged Barricade"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152121917636750/OGN_RiggedBarricade.png?ex=6a903095&is=6a8edf15&hm=ce163db9a9bb5f64d2a9fdef4d193f3eaf3c3bb9f0869c0e5389b6849b332c92&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Rigged Barricade",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-126": {
+    "id": "OGN-126",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arcane Library"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152122324226068/OGN_ArcaneLibrary.png?ex=6a903095&is=6a8edf15&hm=b2bebe4a48417f1e6adf146e717a79391739e100a5907b838a8417ec3d515078&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Arcane Library",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-127": {
+    "id": "OGN-127",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blood Altar"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152122777477161/OGN_BloodAltar.png?ex=6a903095&is=6a8edf15&hm=c432a88fbe072f57a0c797a66dfb3c2f4d4035466bc63ef3b5b462a40607a274&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Blood Altar",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-128": {
+    "id": "OGN-128",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sniper Tower"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152123104628798/OGN_SniperTower.png?ex=6a903095&is=6a8edf15&hm=a50a5f033b692db0ad1d15db2ed9f2c5bb7edf93651e1b79277c7dc4e6d56682&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Sniper Tower",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-129": {
+    "id": "OGN-129",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Book Club"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152123498889336/OGN_SecretBookClub.png?ex=6a903096&is=6a8edf16&hm=4e663f2beabdaf2ac7929f80708d9e7fad5b18164e394dcbfd751aee264a71fe&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Secret Book Club",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-130": {
+    "id": "OGN-130",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Carpentry Chapel"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152123876245544/OGN_CarpentryChapel.png?ex=6a903096&is=6a8edf16&hm=8f2b4e3488c967fcb81aaf75254cac1dd99f7efed6a6a3fe9e1647572e46a32e&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Carpentry Chapel",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-131": {
+    "id": "OGN-131",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mystic Leyline"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152628535042068/OGN_MysticLeyline.png?ex=6a90310e&is=6a8edf8e&hm=a0294275c1b01610e5e6dce7455802d9a465fad4a32c6797e1a2aba82b63f881&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Mystic Leyline",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-132": {
+    "id": "OGN-132",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Abandoned Mine"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152629294075956/OGN_AbandonedMine.png?ex=6a90310e&is=6a8edf8e&hm=e10837a4ed32673080b6c5a9edd2ac57edecad02ac49becfdab9dc3c330cfd31&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Abandoned Mine",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-133": {
+    "id": "OGN-133",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Windswept Market"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152630107906118/OGN_WindsweptMarket.png?ex=6a90310e&is=6a8edf8e&hm=338e91f16b50c102903c37d1886b2136365f2823f09a075d7820696bec4722ea&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Windswept Market",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-134": {
+    "id": "OGN-134",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demonic Barracks"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152630745169920/OGN_DemonicBarracks.png?ex=6a90310e&is=6a8edf8e&hm=61862d5a449b91d5fca9bde27f24b123151a94e501023cc07d805753f42cd325&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Demonic Barracks",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-135": {
+    "id": "OGN-135",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tinkerer's Hideout"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152631328317600/OGN_TinkerersHideout.png?ex=6a90310f&is=6a8edf8f&hm=0b86b78e4a4069f6b8d0e8a46a6c9460672f41dc650582835d1b457f41d354cd&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Tinkerer's Hideout",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-136": {
+    "id": "OGN-136",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Warded Cove"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152631898734703/OGN_WardedCove.png?ex=6a90310f&is=6a8edf8f&hm=2f2626c96434a855f91a9d47974bf1978b2aa9f8b6d2b79d8c0b15086b14dc39&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Warded Cove",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-137": {
+    "id": "OGN-137",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Looters' Hall"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152632578216006/OGN_LootersHall.png?ex=6a90310f&is=6a8edf8f&hm=f6f1e035a3a3cf04aa337e3e31064083d3281762d673c0df32407dcdbaa90ac8&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Looters' Hall",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-138": {
+    "id": "OGN-138",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Junk Shop"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152633014550598/OGN_JunkShop.png?ex=6a90310f&is=6a8edf8f&hm=0c6c44ac64c0de96cb08f9d6c14e9c124516b359268c48283ac6e001e71fc985&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Junk Shop",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-139": {
+    "id": "OGN-139",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dilapidated Slaughterhouse"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152633618407535/OGN_DilapidatedSlaughterhouse.png?ex=6a90310f&is=6a8edf8f&hm=48b12dc2fb63e5a616e53f6163fca35e0dc5db667d7bc15e70de76215e90a9fe&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Dilapidated Slaughterhouse",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-140": {
+    "id": "OGN-140",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spirit Well"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152634079772722/OGN_SpiritWell.png?ex=6a90310f&is=6a8edf8f&hm=80783e3f24625fe7307a4b180aebea92f856a60dc2c30ee51157fba52083bca5&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "None"
+      }
+    },
+    "name": "Spirit Well",
+    "type": "Base",
+    "cost": "0",
+    "domain": "None",
+    "isisToken": "FALSE"
+  },
+  "OGN-141": {
+    "id": "OGN-141",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Soldier Token"
+        },
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152678421958676/OGNToken_Soldier.png?ex=6a90311a&is=6a8edf9a&hm=07adad82211f431f0966f96a3968c3c0adc4ef6bca424c5f29a2bf4ddcb14663&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Light"
+      }
+    },
+    "name": "Soldier Token",
+    "type": "Unit",
+    "cost": "0",
+    "domain": "Light",
+    "isisToken": "TRUE"
+  },
+  "OGN-142": {
+    "id": "OGN-142",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spirit Token"
+        },
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://media.discordapp.net/attachments/1542136151844982924/1542152678812155944/OGNToken_Spirit.png?ex=6a90311a&is=6a8edf9a&hm=499665c720c63c091b552f12d2dcd3c28cd1d4369c0164d8a819905f9ea73d83&=&format=webp&quality=lossless&width=731&height=1024",
+        "domain": "Mind"
+      }
+    },
+    "name": "Spirit Token",
+    "type": "Unit",
+    "cost": "0",
+    "domain": "Mind",
+    "isisToken": "TRUE"
+  }
+}
