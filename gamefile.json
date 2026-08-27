@@ -92,7 +92,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards.json",
+    "dataUrl": "https://mattdewyt.github.io/SiegeAndDuressTCG/main/cards.json",
     "cardBack": "https://media.discordapp.net/attachments/1542136151844982924/1542136456590393474/SiegeAndDuressCardBack.png?ex=6a91737e&is=6a9021fe&hm=268dfc0e729225c3943ce8b10d54b7f67233dd1cfe077d9dade602f531dee025&=&format=webp&quality=lossless&width=731&height=1024"
   }
 }
