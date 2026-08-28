@@ -15,7 +15,7 @@
           { "category": "Sideboard", "min": 0, "max": 15 },
           { "category": "Base 1", "min": 1, "max": 2 },
           { "category": "Base 2", "min": 1, "max": 2 },
-          { "category": "Base 3", "min": 1, "max": 2 },
+          { "category": "Base 3", "min": 1, "max": 2 }
         ]
       }
     }
