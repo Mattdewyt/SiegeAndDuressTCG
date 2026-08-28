@@ -44,15 +44,7 @@
       
       "countersStartingValues": [],
 
-      "sectionsDict": {
-          "Field": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 1 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 1 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
-          "Base 2 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 2 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
-          "Base 3 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 3 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
-        },
+      
       
       "sections": {
         "layout": {
@@ -82,6 +74,16 @@
               ]
             }
           ]
+        },
+
+        "sectionsDict": {
+          "Field": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 1 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 1 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base 2 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 2 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base 3 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 3 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
         }
 
         
