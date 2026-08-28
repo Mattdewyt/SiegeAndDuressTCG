@@ -48,7 +48,7 @@
           "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
         }
       }
-    }
+    },
   "cards": {
     "dataUrl": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards.json",
     "cardBack": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/SiegeAndDuressCardBack.png"
