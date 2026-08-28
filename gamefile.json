@@ -6,7 +6,7 @@
     
     "formats": [
       { "title": "Classic", "gameplay": "Standard", "deckRuleset": "Standard" }
-    ]
+    ],
 
     "deckRulesets": {
       "Standard": {
