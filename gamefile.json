@@ -1,9 +1,6 @@
-//THIS SHIT IS PARTIALLY DONE????
-
 {
   "name": "Siege & Duress",
-  
-  //deckbuilding
+
   "deckBuilding": {
     "mainFilters": ["type", "cost", "domain"],
     
@@ -77,8 +74,6 @@
           ]
         },
 
-
-        //stuff yeah
         "sectionsDict": {
           "Field": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
           "Base 1 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
