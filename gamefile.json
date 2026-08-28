@@ -34,7 +34,7 @@
         "mulliganCount": { "max": 7 },
         "mulliganCycle": {
           "steps": [ "toBottom", "applyPenalty", "draw" ],
-          "selectionRange": [ "min": 7 ]
+          "selectionRange": {"min": 7}
         }
       },
       
