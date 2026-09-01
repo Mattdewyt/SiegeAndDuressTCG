@@ -1,6 +1,8 @@
 {
   "name": "Siege & Duress",
 
+  "cardRotation": 90,
+
   "deckBuilding": {
     "mainFilters": ["type", "cost", "domain"],
     
@@ -11,8 +13,10 @@
     "deckRulesets": {
       "Standard": {
         "general": { "min": 60, "maxPerCard": 4},
+        "costCurveIgnoredTypes": { "Base" },
         "categories": [
-          { "category": "Sideboard", "min": 0, "max": 15 }
+          { "category": "Sideboard", "min": 0, "max": 15 },
+          { "category": "Base", "min": 0, "max": 6 }
         ]
       }
     }
@@ -23,32 +27,75 @@
     "Standard": {
 
       "beforeGameStart": {
-        "boardCategoriesInSideboard": [ "Sideboard", "Base 1", "Base 2", "Base 3" ]
+        "boardCategoriesInSideboard": [ "Base" ],
+        "boardCardSelection": [
+          { "category": "Base", "min": 0, "max": 6, "unselectedDestination": "Base 1 Resources" }
+        ],
+        "chooseAnotherStartingPlayer": true
       },
       
       "mulligan": { 
-        "startingHandSize": 7
+        "startingHandSize": 7,
+        "mulliganCount": { "max": 7 },
+        "mulliganCycle": {
+          "steps": [
+            "shuffle", "applyPenalty", "draw"
+          ],
+          "selectionRange": { "min:" 7 }
         }
-      },
+        },
+      
       
       "newTurn": { 
-        "drawOnStart": false 
+        "drawOnStart": true,
+        "drawPerTurn": 1,
+        "sharedTurn": false
       },
       
       "countersStartingValues": [],
 
-      
+      },
       
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }]
+          "content": [
+            { "section": "Field" },
+            { "direction": "row",
+              "content": [
+                { "direction": "column",
+                  "content": [
+                    { "section": "Base 1 Play" },
+                    { "section": "Base 1 Resources" }
+                  ]
+                },
+                { "direction": "column",
+                  "content": [
+                    { "section": "Base 2 Play" },
+                    { "section": "Base 2 Resources"}
+                  ]
+                },
+                { "direction": "column",
+                  "content": [
+                    { "section": "Base 3 Play" },
+                    { "section": "Base 3 Resources" }
+                  ]
+                }
+              ]
+            }
+          ]
         },
+
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
-        }
-      }
-    },
+          "Field": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 1 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 1 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base 2 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 2 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base 3 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base 3 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
+        },
+
   "cards": {
     "dataUrl": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards.json",
     "cardBack": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/SiegeAndDuressCardBack.png"
