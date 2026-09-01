@@ -40,7 +40,7 @@
           "steps": [
             "shuffle", "applyPenalty", "draw"
           ],
-          "selectionRange": { "min:" 7 }
+          "selectionRange": { "min": 7 }
         }
         },
       
