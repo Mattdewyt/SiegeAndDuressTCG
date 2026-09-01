@@ -52,8 +52,6 @@
       },
       
       "countersStartingValues": [],
-
-      },
       
       "sections": {
         "layout": {
@@ -93,7 +91,10 @@
           "Base 2 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
           "Base 3 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
           "Base 3 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
-        },
+        }
+      }
+    }
+  },
 
   "cards": {
     "dataUrl": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards.json",
