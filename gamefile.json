@@ -13,7 +13,6 @@
     "deckRulesets": {
       "Standard": {
         "general": { "min": 60, "maxPerCard": 4},
-        "costCurveIgnoredTypes": [ "Base" ],
         "categories": [
           { "category": "Sideboard", "min": 0, "max": 15 },
           { "category": "Base", "min": 0, "max": 6 }
