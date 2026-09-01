@@ -28,7 +28,7 @@
       "beforeGameStart": {
         "boardCategoriesInSideboard": [ "Base" ],
         "boardCardSelection": [
-          { "category": "Base", "min": 0, "max": 6, "unselectedDestination": "Base 1 Resources" }
+          { "category": "Base", "min": 0, "max": 6, "unselectedDestination": "Base1Resources" }
         ],
         "chooseAnotherStartingPlayer": true
       },
@@ -62,20 +62,20 @@
               "content": [
                 { "direction": "column",
                   "content": [
-                    { "section": "Base 1 Play" },
-                    { "section": "Base 1 Resources" }
+                    { "section": "Base1Play" },
+                    { "section": "Base1Resources" }
                   ]
                 },
                 { "direction": "column",
                   "content": [
-                    { "section": "Base 2 Play" },
-                    { "section": "Base 2 Resources"}
+                    { "section": "Base2Play" },
+                    { "section": "Base2Resources"}
                   ]
                 },
                 { "direction": "column",
                   "content": [
-                    { "section": "Base 3 Play" },
-                    { "section": "Base 3 Resources" }
+                    { "section": "Base3Play" },
+                    { "section": "Base3Resources" }
                   ]
                 }
               ]
@@ -85,12 +85,12 @@
 
         "sectionsDict": {
           "Field": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 1 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 1 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
-          "Base 2 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 2 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
-          "Base 3 Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
-          "Base 3 Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
+          "Base1Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base1Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base2Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base2Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" },
+          "Base3Play": { "isHidden": "no", "height": "35vh", "alignment": "CENTER" },
+          "Base3Resources": { "isHidden": "no", "height": "30vh", "alignment": "START" }
         }
       }
     }
