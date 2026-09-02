@@ -2289,13 +2289,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_FrontalTheater.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Frontal Theater",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-122": {
@@ -2308,13 +2308,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_PanicShelter.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Panic Shelter",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-123": {
@@ -2327,13 +2327,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_ConquerorsThrone.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Conqueror's Throne",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-124": {
@@ -2346,13 +2346,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_FoggyHarbor.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Foggy Harbor",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-125": {
@@ -2365,13 +2365,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_RiggedBarricade.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Rigged Barricade",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-126": {
@@ -2384,13 +2384,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_ArcaneLibrary.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Arcane Library",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-127": {
@@ -2403,13 +2403,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_BloodAltar.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Blood Altar",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-128": {
@@ -2422,13 +2422,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_SniperTower.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Sniper Tower",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-129": {
@@ -2441,13 +2441,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_SecretBookClub.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Secret Book Club",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-130": {
@@ -2460,13 +2460,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_CarpentryChapel.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Carpentry Chapel",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-131": {
@@ -2479,13 +2479,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_MysticLeyline.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Mystic Leyline",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-132": {
@@ -2498,13 +2498,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_AbandonedMine.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Abandoned Mine",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-133": {
@@ -2517,13 +2517,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_WindsweptMarket.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Windswept Market",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-134": {
@@ -2536,13 +2536,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_DemonicBarracks.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Demonic Barracks",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-135": {
@@ -2555,13 +2555,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_TinkerersHideout.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Tinkerer's Hideout",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-136": {
@@ -2574,13 +2574,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_WardedCove.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Warded Cove",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-137": {
@@ -2593,13 +2593,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_LootersHall.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Looters' Hall",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-138": {
@@ -2612,13 +2612,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_JunkShop.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Junk Shop",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-139": {
@@ -2631,13 +2631,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_DilapidatedSlaughterhouse.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Dilapidated Slaughterhouse",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-140": {
@@ -2650,13 +2650,13 @@
         "type": "Base",
         "cost": "0",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_SpiritWell.png",
-        "domain": "None"
+        "domain": "Neutral"
       }
     },
     "name": "Spirit Well",
     "type": "Base",
     "cost": "0",
-    "domain": "None",
+    "domain": "Neutral",
     "isisToken": "FALSE"
   },
   "OGN-141": {
@@ -2687,7 +2687,7 @@
         },
         "type": "Unit",
         "cost": "0",
-        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGNToken_Soldier.png",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGNToken_Spirit.png",
         "domain": "Mind"
       }
     },
