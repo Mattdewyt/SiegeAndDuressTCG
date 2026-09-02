@@ -52,6 +52,16 @@
       },
       
       "countersStartingValues": [],
+
+      "autoPlayFromHand": {
+        "Unit": "Base1Play",
+        "Skill": "Stack",
+        "Equipment": "Base1Play",
+        "Base": "Base1Resources"
+      },
+      "autoPlayFromStack": {
+        "Skill": "Discard"
+      },
       
       "sections": {
         "layout": {
