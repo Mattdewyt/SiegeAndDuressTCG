@@ -84,13 +84,13 @@
         },
 
         "sectionsDict": {
-          "Field": { "isHidden": "no", "height": 35, "alignment": "CENTER" },
-          "Base1Play": { "isHidden": "no", "height": 35, "alignment": "CENTER" },
-          "Base1Resources": { "isHidden": "no", "height": 30, "alignment": "START" },
-          "Base2Play": { "isHidden": "no", "height": 35, "alignment": "CENTER" },
-          "Base2Resources": { "isHidden": "no", "height": 30, "alignment": "START" },
-          "Base3Play": { "isHidden": "no", "height": 35, "alignment": "CENTER" },
-          "Base3Resources": { "isHidden": "no", "height": 30, "alignment": "START" }
+          "Field": { "isHidden": "no", "height": 17.5, "alignment": "CENTER" },
+          "Base1Play": { "isHidden": "no", "height": 17.5, "alignment": "CENTER" },
+          "Base1Resources": { "isHidden": "no", "height": 15, "alignment": "START" },
+          "Base2Play": { "isHidden": "no", "height": 17.5, "alignment": "CENTER" },
+          "Base2Resources": { "isHidden": "no", "height": 15, "alignment": "START" },
+          "Base3Play": { "isHidden": "no", "height": 17.5, "alignment": "CENTER" },
+          "Base3Resources": { "isHidden": "no", "height": 15, "alignment": "START" }
         }
       }
     }
