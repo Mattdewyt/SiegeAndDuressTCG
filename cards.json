@@ -595,14 +595,14 @@
         "name": {
           "name": "Corpse Explosion"
         },
-        "type": "Unit",
+        "type": "Skill",
         "cost": "5",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_CorpseExplosion.png",
         "domain": "Dark"
       }
     },
     "name": "Corpse Explosion",
-    "type": "Unit",
+    "type": "Skill",
     "cost": "5",
     "domain": "Dark",
     "isToken": false
