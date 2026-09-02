@@ -16,7 +16,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-002": {
     "id": "OGN-002",
@@ -35,7 +35,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-003": {
     "id": "OGN-003",
@@ -54,7 +54,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-004": {
     "id": "OGN-004",
@@ -73,7 +73,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-005": {
     "id": "OGN-005",
@@ -92,7 +92,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-006": {
     "id": "OGN-006",
@@ -111,7 +111,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-007": {
     "id": "OGN-007",
@@ -130,7 +130,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-008": {
     "id": "OGN-008",
@@ -149,7 +149,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-009": {
     "id": "OGN-009",
@@ -168,7 +168,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-010": {
     "id": "OGN-010",
@@ -187,7 +187,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-011": {
     "id": "OGN-011",
@@ -206,7 +206,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-012": {
     "id": "OGN-012",
@@ -225,7 +225,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-013": {
     "id": "OGN-013",
@@ -244,7 +244,7 @@
     "type": "Skill",
     "cost": "5",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-014": {
     "id": "OGN-014",
@@ -263,7 +263,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-015": {
     "id": "OGN-015",
@@ -282,7 +282,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-016": {
     "id": "OGN-016",
@@ -301,7 +301,7 @@
     "type": "Equipment",
     "cost": "4",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-017": {
     "id": "OGN-017",
@@ -320,7 +320,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-018": {
     "id": "OGN-018",
@@ -339,7 +339,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-019": {
     "id": "OGN-019",
@@ -358,7 +358,7 @@
     "type": "Equipment",
     "cost": "3",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-020": {
     "id": "OGN-020",
@@ -377,7 +377,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Light",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-021": {
     "id": "OGN-021",
@@ -396,7 +396,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-022": {
     "id": "OGN-022",
@@ -415,7 +415,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-023": {
     "id": "OGN-023",
@@ -434,7 +434,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-024": {
     "id": "OGN-024",
@@ -453,7 +453,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-025": {
     "id": "OGN-025",
@@ -472,7 +472,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-026": {
     "id": "OGN-026",
@@ -491,7 +491,7 @@
     "type": "Skill",
     "cost": "6",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-027": {
     "id": "OGN-027",
@@ -510,7 +510,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-028": {
     "id": "OGN-028",
@@ -529,7 +529,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-029": {
     "id": "OGN-029",
@@ -548,7 +548,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-030": {
     "id": "OGN-030",
@@ -567,7 +567,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-031": {
     "id": "OGN-031",
@@ -586,7 +586,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-032": {
     "id": "OGN-032",
@@ -605,7 +605,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-033": {
     "id": "OGN-033",
@@ -624,7 +624,7 @@
     "type": "Skill",
     "cost": "7",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-034": {
     "id": "OGN-034",
@@ -643,7 +643,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-035": {
     "id": "OGN-035",
@@ -662,7 +662,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-036": {
     "id": "OGN-036",
@@ -681,7 +681,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-037": {
     "id": "OGN-037",
@@ -700,7 +700,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-038": {
     "id": "OGN-038",
@@ -719,7 +719,7 @@
     "type": "Equipment",
     "cost": "1",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-039": {
     "id": "OGN-039",
@@ -738,7 +738,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-040": {
     "id": "OGN-040",
@@ -757,7 +757,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Dark",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-041": {
     "id": "OGN-041",
@@ -776,7 +776,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-042": {
     "id": "OGN-042",
@@ -795,7 +795,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-043": {
     "id": "OGN-043",
@@ -814,7 +814,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-044": {
     "id": "OGN-044",
@@ -833,7 +833,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-045": {
     "id": "OGN-045",
@@ -852,7 +852,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-046": {
     "id": "OGN-046",
@@ -871,7 +871,7 @@
     "type": "Skill",
     "cost": "5",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-047": {
     "id": "OGN-047",
@@ -890,7 +890,7 @@
     "type": "Equipment",
     "cost": "2",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-048": {
     "id": "OGN-048",
@@ -909,7 +909,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-049": {
     "id": "OGN-049",
@@ -928,7 +928,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-050": {
     "id": "OGN-050",
@@ -947,7 +947,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-051": {
     "id": "OGN-051",
@@ -966,7 +966,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-052": {
     "id": "OGN-052",
@@ -985,7 +985,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-053": {
     "id": "OGN-053",
@@ -1004,7 +1004,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-054": {
     "id": "OGN-054",
@@ -1023,7 +1023,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-055": {
     "id": "OGN-055",
@@ -1042,7 +1042,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-056": {
     "id": "OGN-056",
@@ -1061,7 +1061,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-057": {
     "id": "OGN-057",
@@ -1080,7 +1080,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-058": {
     "id": "OGN-058",
@@ -1099,7 +1099,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-059": {
     "id": "OGN-059",
@@ -1118,7 +1118,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-060": {
     "id": "OGN-060",
@@ -1137,7 +1137,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Mind",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-061": {
     "id": "OGN-061",
@@ -1156,7 +1156,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-062": {
     "id": "OGN-062",
@@ -1175,7 +1175,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-063": {
     "id": "OGN-063",
@@ -1194,7 +1194,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-064": {
     "id": "OGN-064",
@@ -1213,7 +1213,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-065": {
     "id": "OGN-065",
@@ -1232,7 +1232,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-066": {
     "id": "OGN-066",
@@ -1251,7 +1251,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-067": {
     "id": "OGN-067",
@@ -1270,7 +1270,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-068": {
     "id": "OGN-068",
@@ -1289,7 +1289,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-069": {
     "id": "OGN-069",
@@ -1308,7 +1308,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-070": {
     "id": "OGN-070",
@@ -1327,7 +1327,7 @@
     "type": "Equipment",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-071": {
     "id": "OGN-071",
@@ -1346,7 +1346,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-072": {
     "id": "OGN-072",
@@ -1365,7 +1365,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-073": {
     "id": "OGN-073",
@@ -1384,7 +1384,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-074": {
     "id": "OGN-074",
@@ -1403,7 +1403,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-075": {
     "id": "OGN-075",
@@ -1422,7 +1422,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-076": {
     "id": "OGN-076",
@@ -1441,7 +1441,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-077": {
     "id": "OGN-077",
@@ -1460,7 +1460,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-078": {
     "id": "OGN-078",
@@ -1479,7 +1479,7 @@
     "type": "Skill",
     "cost": "6",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-079": {
     "id": "OGN-079",
@@ -1498,7 +1498,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-080": {
     "id": "OGN-080",
@@ -1517,7 +1517,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Soul",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-081": {
     "id": "OGN-081",
@@ -1536,7 +1536,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-082": {
     "id": "OGN-082",
@@ -1555,7 +1555,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-083": {
     "id": "OGN-083",
@@ -1574,7 +1574,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-084": {
     "id": "OGN-084",
@@ -1593,7 +1593,7 @@
     "type": "Unit",
     "cost": "10",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-085": {
     "id": "OGN-085",
@@ -1612,7 +1612,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-086": {
     "id": "OGN-086",
@@ -1631,7 +1631,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-087": {
     "id": "OGN-087",
@@ -1650,7 +1650,7 @@
     "type": "Equipment",
     "cost": "1",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-088": {
     "id": "OGN-088",
@@ -1669,7 +1669,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-089": {
     "id": "OGN-089",
@@ -1688,7 +1688,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-090": {
     "id": "OGN-090",
@@ -1707,7 +1707,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-091": {
     "id": "OGN-091",
@@ -1726,7 +1726,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-092": {
     "id": "OGN-092",
@@ -1745,7 +1745,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-093": {
     "id": "OGN-093",
@@ -1764,7 +1764,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-094": {
     "id": "OGN-094",
@@ -1783,7 +1783,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-095": {
     "id": "OGN-095",
@@ -1802,7 +1802,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-096": {
     "id": "OGN-096",
@@ -1821,7 +1821,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-097": {
     "id": "OGN-097",
@@ -1840,7 +1840,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-098": {
     "id": "OGN-098",
@@ -1859,7 +1859,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-099": {
     "id": "OGN-099",
@@ -1878,7 +1878,7 @@
     "type": "Equipment",
     "cost": "6",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-100": {
     "id": "OGN-100",
@@ -1897,7 +1897,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Conquest",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-101": {
     "id": "OGN-101",
@@ -1916,7 +1916,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-102": {
     "id": "OGN-102",
@@ -1935,7 +1935,7 @@
     "type": "Unit",
     "cost": "8",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-103": {
     "id": "OGN-103",
@@ -1954,7 +1954,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-104": {
     "id": "OGN-104",
@@ -1973,7 +1973,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-105": {
     "id": "OGN-105",
@@ -1992,7 +1992,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-106": {
     "id": "OGN-106",
@@ -2011,7 +2011,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-107": {
     "id": "OGN-107",
@@ -2030,7 +2030,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-108": {
     "id": "OGN-108",
@@ -2049,7 +2049,7 @@
     "type": "Skill",
     "cost": "5",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-109": {
     "id": "OGN-109",
@@ -2068,7 +2068,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-110": {
     "id": "OGN-110",
@@ -2087,7 +2087,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-111": {
     "id": "OGN-111",
@@ -2106,7 +2106,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-112": {
     "id": "OGN-112",
@@ -2125,7 +2125,7 @@
     "type": "Equipment",
     "cost": "5",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-113": {
     "id": "OGN-113",
@@ -2144,7 +2144,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-114": {
     "id": "OGN-114",
@@ -2163,7 +2163,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-115": {
     "id": "OGN-115",
@@ -2182,7 +2182,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-116": {
     "id": "OGN-116",
@@ -2201,7 +2201,7 @@
     "type": "Skill",
     "cost": "5",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-117": {
     "id": "OGN-117",
@@ -2220,7 +2220,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-118": {
     "id": "OGN-118",
@@ -2239,7 +2239,7 @@
     "type": "Equipment",
     "cost": "6",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-119": {
     "id": "OGN-119",
@@ -2258,7 +2258,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-120": {
     "id": "OGN-120",
@@ -2277,7 +2277,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Nature",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-121": {
     "id": "OGN-121",
@@ -2296,7 +2296,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-122": {
     "id": "OGN-122",
@@ -2315,7 +2315,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-123": {
     "id": "OGN-123",
@@ -2334,7 +2334,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-124": {
     "id": "OGN-124",
@@ -2353,7 +2353,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-125": {
     "id": "OGN-125",
@@ -2372,7 +2372,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-126": {
     "id": "OGN-126",
@@ -2391,7 +2391,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-127": {
     "id": "OGN-127",
@@ -2410,7 +2410,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-128": {
     "id": "OGN-128",
@@ -2429,7 +2429,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-129": {
     "id": "OGN-129",
@@ -2448,7 +2448,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-130": {
     "id": "OGN-130",
@@ -2467,7 +2467,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-131": {
     "id": "OGN-131",
@@ -2486,7 +2486,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-132": {
     "id": "OGN-132",
@@ -2505,7 +2505,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-133": {
     "id": "OGN-133",
@@ -2524,7 +2524,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-134": {
     "id": "OGN-134",
@@ -2543,7 +2543,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-135": {
     "id": "OGN-135",
@@ -2562,7 +2562,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-136": {
     "id": "OGN-136",
@@ -2581,7 +2581,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-137": {
     "id": "OGN-137",
@@ -2600,7 +2600,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-138": {
     "id": "OGN-138",
@@ -2619,7 +2619,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-139": {
     "id": "OGN-139",
@@ -2638,7 +2638,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-140": {
     "id": "OGN-140",
@@ -2657,7 +2657,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isisToken": false
+    "isToken": false
   },
   "OGN-141": {
     "id": "OGN-141",
@@ -2676,7 +2676,7 @@
     "type": "Unit",
     "cost": "0",
     "domain": "Light",
-    "isisToken": true
+    "isToken": true
   },
   "OGN-142": {
     "id": "OGN-142",
@@ -2695,6 +2695,6 @@
     "type": "Unit",
     "cost": "0",
     "domain": "Mind",
-    "isisToken": true
+    "isToken": true
   }
 }
