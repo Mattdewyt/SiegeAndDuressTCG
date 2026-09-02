@@ -53,15 +53,7 @@
       
       "countersStartingValues": [],
 
-      "autoPlayFromHand": {
-        "Unit": "Base1Play",
-        "Skill": "Stack",
-        "Equipment": "Base1Play",
-        "Base": "Base1Resources"
-      },
-      "autoPlayFromStack": {
-        "Skill": "Discard"
-      },
+      
       
       "sections": {
         "layout": {
@@ -92,6 +84,16 @@
             }
           ]
         },
+
+          "autoPlayFromHand": {
+            "Unit": "Base1Play",
+            "Skill": "Stack",
+            "Equipment": "Base1Play",
+            "Base": "Base1Resources"
+          },
+          "autoPlayFromStack": {
+            "Skill": "Discard"
+          },
 
         "sectionsDict": {
           "Field": { "isHidden": "no", "height": 13.75, "alignment": "CENTER" },
