@@ -1678,14 +1678,14 @@
         "name": {
           "name": "Fated Folio"
         },
-        "type": "Unit",
+        "type": "Equipment",
         "cost": "3",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_FatedFolio.png",
         "domain": "Conquest"
       }
     },
     "name": "Fated Folio",
-    "type": "Unit",
+    "type": "Equipment",
     "cost": "3",
     "domain": "Conquest",
     "isToken": false
@@ -1697,14 +1697,14 @@
         "name": {
           "name": "Fight Night"
         },
-        "type": "Unit",
+        "type": "Skill",
         "cost": "2",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Origins/OGN_FightNight.png",
         "domain": "Conquest"
       }
     },
     "name": "Fight Night",
-    "type": "Unit",
+    "type": "Skill",
     "cost": "2",
     "domain": "Conquest",
     "isToken": false
