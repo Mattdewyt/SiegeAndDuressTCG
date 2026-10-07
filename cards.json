@@ -2696,5 +2696,2722 @@
     "cost": "0",
     "domain": "Mind",
     "isToken": true
+  },
+  "FTH-001": {
+    "id": "FTH-001",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Yuria, Resplendent Abbess"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_YuriaResplendentAbbess.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Yuria, Resplendent Abbess",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-002": {
+    "id": "FTH-002",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kurok, Rookie Defector"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_KurokRookieDefector.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Kurok, Rookie Defector",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-003": {
+    "id": "FTH-003",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Anthem Marshal"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AnthemMarshal.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Anthem Marshal",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-004": {
+    "id": "FTH-004",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ardent Rallier"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ArdentRallier.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Ardent Rallier",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-005": {
+    "id": "FTH-005",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bastion of Respite"
+        },
+        "type": "Equipment",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BastionOfRespite.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Bastion of Respite",
+    "type": "Equipment",
+    "cost": "6",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-006": {
+    "id": "FTH-006",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Battle-Forged Carpenter"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BattleForgedCarpenter.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Battle-Forged Carpenter",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-007": {
+    "id": "FTH-007",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Deacon of Abjuration"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DeaconOfAbjuration.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Deacon of Abjuration",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-008": {
+    "id": "FTH-008",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Drive Back"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DriveBack.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Drive Back",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-009": {
+    "id": "FTH-009",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fairy Lantern"
+        },
+        "type": "Equipment",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FairyLantern.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Fairy Lantern",
+    "type": "Equipment",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-010": {
+    "id": "FTH-010",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flanking Maneuver"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FlankingManeuver.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Flanking Maneuver",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-011": {
+    "id": "FTH-011",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hopeful Prayer"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_HopefulPrayer.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Hopeful Prayer",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-012": {
+    "id": "FTH-012",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Improvised Recruiter"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ImprovisedRecruiter.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Improvised Recruiter",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-013": {
+    "id": "FTH-013",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Iron Cudgel General"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_IronCudgelGeneral.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Iron Cudgel General",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-014": {
+    "id": "FTH-014",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Iron Cudgel Horn"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_IronCudgelHorn.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Iron Cudgel Horn",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-015": {
+    "id": "FTH-015",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Legion of Jarath"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LegionOfJarath.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Legion of Jarath",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-016": {
+    "id": "FTH-016",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mass Dismissal"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MassDismissal.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Mass Dismissal",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-017": {
+    "id": "FTH-017",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Priestly Deployment"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_PriestlyDeployment.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Priestly Deployment",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-018": {
+    "id": "FTH-018",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Retired Elder"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RetiredElder.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Retired Elder",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-019": {
+    "id": "FTH-019",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sniper Priest"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SniperPriest.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Sniper Priest",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-020": {
+    "id": "FTH-020",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Steadfast Blessing"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SteadfastBlessing.png",
+        "domain": "Light"
+      }
+    },
+    "name": "Steadfast Blessing",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Light",
+    "isToken": "FALSE"
+  },
+  "FTH-021": {
+    "id": "FTH-021",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Xit, Who Feels All"
+        },
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_XitWhoFeelsAll.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Xit, Who Feels All",
+    "type": "Unit",
+    "cost": "8",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-022": {
+    "id": "FTH-022",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sirin, Demon Queller"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SirinDemonQueller.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Sirin, Demon Queller",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-023": {
+    "id": "FTH-023",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Abattoir Workbench"
+        },
+        "type": "Equipment",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AbattoirWorkbench.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Abattoir Workbench",
+    "type": "Equipment",
+    "cost": "1",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-024": {
+    "id": "FTH-024",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blight Grasp"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BlightGrasp.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Blight Grasp",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-025": {
+    "id": "FTH-025",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Darsbik Scholar"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DarsbikScholar.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Darsbik Scholar",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-026": {
+    "id": "FTH-026",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Double Agent"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DoubleAgent.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Double Agent",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-027": {
+    "id": "FTH-027",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Embarrassed Fiend"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_EmbarrassedFiend.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Embarrassed Fiend",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-028": {
+    "id": "FTH-028",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ethereal Thug"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_EtherealThug.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Ethereal Thug",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-029": {
+    "id": "FTH-029",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forgetful Faithful"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ForgetfulFaithful.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Forgetful Faithful",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-030": {
+    "id": "FTH-030",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gluttonous Giant"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GluttonousGiant.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Gluttonous Giant",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-031": {
+    "id": "FTH-031",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grave Imp"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GraveImp.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Grave Imp",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-032": {
+    "id": "FTH-032",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kick Down"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_KickDown.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Kick Down",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-033": {
+    "id": "FTH-033",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Larcenist's Swipe"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LarcenistsSwipe.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Larcenist's Swipe",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-034": {
+    "id": "FTH-034",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Living Graveyard"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LivingGraveyard.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Living Graveyard",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-035": {
+    "id": "FTH-035",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Possessed Butcher"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_PossessedButcher.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Possessed Butcher",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-036": {
+    "id": "FTH-036",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rotten Behemoth"
+        },
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RottenBehemoth.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Rotten Behemoth",
+    "type": "Unit",
+    "cost": "8",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-037": {
+    "id": "FTH-037",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spreading Sickness"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SpreadingSickness.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Spreading Sickness",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-038": {
+    "id": "FTH-038",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tumorous Corpse"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_TumorousCorpse.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Tumorous Corpse",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-039": {
+    "id": "FTH-039",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vengeful Rider"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_VengefulRider.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Vengeful Rider",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-040": {
+    "id": "FTH-040",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wipe Clean"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_WipeClean.png",
+        "domain": "Dark"
+      }
+    },
+    "name": "Wipe Clean",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Dark",
+    "isToken": "FALSE"
+  },
+  "FTH-041": {
+    "id": "FTH-041",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tavash, Er'lui Handler"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_TavashErluiHandler.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Tavash, Er'lui Handler",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-042": {
+    "id": "FTH-042",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Zan'li Mercantile Investigator"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ZanliMercantileInvestigator.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Zan'li Mercantile Investigator",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-043": {
+    "id": "FTH-043",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Agent of the Treasury"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_WipeClean.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Agent of the Treasury",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-044": {
+    "id": "FTH-044",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Augury Orb"
+        },
+        "type": "Equipment",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AuguryOrb.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Augury Orb",
+    "type": "Equipment",
+    "cost": "2",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-045": {
+    "id": "FTH-045",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bookstore Canary"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BookstoreCanary.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Bookstore Canary",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-046": {
+    "id": "FTH-046",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Combat Scryer"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_CombatScryer.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Combat Scryer",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-047": {
+    "id": "FTH-047",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Detainment Cuffs"
+        },
+        "type": "Equipment",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DetainmentCuffs.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Detainment Cuffs",
+    "type": "Equipment",
+    "cost": "2",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-048": {
+    "id": "FTH-048",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emergency Bell"
+        },
+        "type": "Equipment",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_EmergencyBell.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Emergency Bell",
+    "type": "Equipment",
+    "cost": "3",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-049": {
+    "id": "FTH-049",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Er'lui Somnomancer"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ErluiSomnomancer.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Er'lui Somnomancer",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-050": {
+    "id": "FTH-050",
+    "face": {
+      "front": {
+        "name": {
+          "name": "False Image"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FalseImage.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "False Image",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-051": {
+    "id": "FTH-051",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Last Minute"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LastMinute.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Last Minute",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-052": {
+    "id": "FTH-052",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mage of Many Hands"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MageOfManyHands.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Mage of Many Hands",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-053": {
+    "id": "FTH-053",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Oracle of the Ae'sin"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_OracleOfTheAesin.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Oracle of the Ae'sin",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-054": {
+    "id": "FTH-054",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Practiced Thought"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_PracticedThought.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Practiced Thought",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-055": {
+    "id": "FTH-055",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Regal Scholar"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RegalScholar.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Regal Scholar",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-056": {
+    "id": "FTH-056",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Runaway's Boon"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RunawaysBoon.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Runaway's Boon",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-057": {
+    "id": "FTH-057",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Message"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SecretMessage.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Secret Message",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-058": {
+    "id": "FTH-058",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Switching Current"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SwitchingCurrent.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Switching Current",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-059": {
+    "id": "FTH-059",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thought Probe"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ThoughtProbe.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Thought Probe",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-060": {
+    "id": "FTH-060",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wailing Water Sage"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_WailingWaterSage.png",
+        "domain": "Mind"
+      }
+    },
+    "name": "Wailing Water Sage",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Mind",
+    "isToken": "FALSE"
+  },
+  "FTH-061": {
+    "id": "FTH-061",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Garragoth, Illustrious Inferno"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GarragothIllustriousInferno.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Garragoth, Illustrious Inferno",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-062": {
+    "id": "FTH-062",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Morra, Bound to the Mountains"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MorraBoundToTheMountains.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Morra, Bound to the Mountains",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-063": {
+    "id": "FTH-063",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Acid Spitter"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AcidSpitter.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Acid Spitter",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-064": {
+    "id": "FTH-064",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Burn Evil"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BurnEvil.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Burn Evil",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-065": {
+    "id": "FTH-065",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Callous Cauterizer"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_CallousCauterizer.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Callous Cauterizer",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-066": {
+    "id": "FTH-066",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Combusting Roots"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_CombustingRoots.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Combusting Roots",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-067": {
+    "id": "FTH-067",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Deafening Roar"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DeafeningRoar.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Deafening Roar",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-068": {
+    "id": "FTH-068",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Explosive Informant"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ExplosiveInformant.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Explosive Informant",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-069": {
+    "id": "FTH-069",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Furnace Golem"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FurnaceGolem.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Furnace Golem",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-070": {
+    "id": "FTH-070",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Geomancy Augur"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GeomancyAugur.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Geomancy Augur",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-071": {
+    "id": "FTH-071",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gold Blast"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GoldBlast.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Gold Blast",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-072": {
+    "id": "FTH-072",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lava Speaker"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LavaSpeaker.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Lava Speaker",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-073": {
+    "id": "FTH-073",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Magma Channeler"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MagmaChanneler.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Magma Channeler",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-074": {
+    "id": "FTH-074",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mohunt Striker"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MohuntStriker.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Mohunt Striker",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-075": {
+    "id": "FTH-075",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mountain Virago"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MountainVirago.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Mountain Virago",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-076": {
+    "id": "FTH-076",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spiteful Breath"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SpitefulBreath.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Spiteful Breath",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-077": {
+    "id": "FTH-077",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strategic Advance"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_StrategicAdvance.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Strategic Advance",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-078": {
+    "id": "FTH-078",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Terror of the Basalt Caverns"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_TerrorOfTheBasaltCaverns.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Terror of the Basalt Caverns",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-079": {
+    "id": "FTH-079",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unfurled Wings"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UnfurledWings.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Unfurled Wings",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-080": {
+    "id": "FTH-080",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wildfire Acolyte"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_WildfireAcolyte.png",
+        "domain": "Soul"
+      }
+    },
+    "name": "Wildfire Acolyte",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Soul",
+    "isToken": "FALSE"
+  },
+  "FTH-081": {
+    "id": "FTH-081",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Origo, Born in Fury"
+        },
+        "type": "Unit",
+        "cost": "10",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_OrigoBornInFury.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Origo, Born in Fury",
+    "type": "Unit",
+    "cost": "10",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-082": {
+    "id": "FTH-082",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ricks, the Goddamned Pilot"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RicksTheGoddamnedPilot.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Ricks, the Goddamned Pilot",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-083": {
+    "id": "FTH-083",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amplification Fork"
+        },
+        "type": "Equipment",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AmplificationFork.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Amplification Fork",
+    "type": "Equipment",
+    "cost": "3",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-084": {
+    "id": "FTH-084",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Boisterous Brawler"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BoisterousBrawler.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Boisterous Brawler",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-085": {
+    "id": "FTH-085",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crank Golem"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_CrankGolem.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Crank Golem",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-086": {
+    "id": "FTH-086",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dragon Rounds"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DragonRounds.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Dragon Rounds",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-087": {
+    "id": "FTH-087",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fateful Staredown"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FatefulStaredown.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Fateful Staredown",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-088": {
+    "id": "FTH-088",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flux Fighter"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FluxFighter.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Flux Fighter",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-089": {
+    "id": "FTH-089",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Foultongue Gambler"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FoultongueGambler.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Foultongue Gambler",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-090": {
+    "id": "FTH-090",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Giant Armor"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GiantArmor.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Giant Armor",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-091": {
+    "id": "FTH-091",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hulking Guardian"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_HulkingGuardian.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Hulking Guardian",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-092": {
+    "id": "FTH-092",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ingenious Mechanization"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_IngeniousMechanization.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Ingenious Mechanization",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-093": {
+    "id": "FTH-093",
+    "face": {
+      "front": {
+        "name": {
+          "name": "League Opportunist"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LeagueOpportunist.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "League Opportunist",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-094": {
+    "id": "FTH-094",
+    "face": {
+      "front": {
+        "name": {
+          "name": "League Profiteer"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LeagueProfiteer.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "League Profiteer",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-095": {
+    "id": "FTH-095",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Meet With Force"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MeetWithForce.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Meet With Force",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-096": {
+    "id": "FTH-096",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Production Specialist"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ProductionSpecialist.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Production Specialist",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-097": {
+    "id": "FTH-097",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Quickshot Champ"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_QuickshotChamp.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Quickshot Champ",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-098": {
+    "id": "FTH-098",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rabble Trance"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RabbleTrance.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Rabble Trance",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-099": {
+    "id": "FTH-099",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shattering Headshot"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ShatteringHeadshot.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Shattering Headshot",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-100": {
+    "id": "FTH-100",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Walking Wall"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_WalkingWall.png",
+        "domain": "Conquest"
+      }
+    },
+    "name": "Walking Wall",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Conquest",
+    "isToken": "FALSE"
+  },
+  "FTH-101": {
+    "id": "FTH-101",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Avatar of the Pale Cyst"
+        },
+        "type": "Unit",
+        "cost": "9",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AvatarOfThePaleCyst.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Avatar of the Pale Cyst",
+    "type": "Unit",
+    "cost": "9",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-102": {
+    "id": "FTH-102",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nahir, Starry-Eyed Vizier"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_NahirStarryEyedVizier.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Nahir, Starry-Eyed Vizier",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-103": {
+    "id": "FTH-103",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amulet of Bounty"
+        },
+        "type": "Equipment",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_AmuletOfBounty.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Amulet of Bounty",
+    "type": "Equipment",
+    "cost": "1",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-104": {
+    "id": "FTH-104",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beast Whisperer"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_BeastWhisperer.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Beast Whisperer",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-105": {
+    "id": "FTH-105",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Caretaker's Eye"
+        },
+        "type": "Skill",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_CaretakersEye.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Caretaker's Eye",
+    "type": "Skill",
+    "cost": "3",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-106": {
+    "id": "FTH-106",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Constricting Vizier"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ConstrictingVizier.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Constricting Vizier",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-107": {
+    "id": "FTH-107",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flibbleblip Patch"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FlibbleblipPatch.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Flibbleblip Patch",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-108": {
+    "id": "FTH-108",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Follower of Skar"
+        },
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_FollowerOfSkar.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Follower of Skar",
+    "type": "Unit",
+    "cost": "5",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-109": {
+    "id": "FTH-109",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gift of the Cyst"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GiftOfTheCyst.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Gift of the Cyst",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-110": {
+    "id": "FTH-110",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goliath Ceratops"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GoliathCeratops.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Goliath Ceratops",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-111": {
+    "id": "FTH-111",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Horned Aberrant"
+        },
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_HornedAberrant.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Horned Aberrant",
+    "type": "Unit",
+    "cost": "3",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-112": {
+    "id": "FTH-112",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Immovable Beast"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ImmovableBeast.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Immovable Beast",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-113": {
+    "id": "FTH-113",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Moss-Addled Bear"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MossAddledBear.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Moss-Addled Bear",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-114": {
+    "id": "FTH-114",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Panoptic Lotus"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_PanopticLotus.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Panoptic Lotus",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-115": {
+    "id": "FTH-115",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Protection of Temnas"
+        },
+        "type": "Skill",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ProtectionOfTemnas.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Protection of Temnas",
+    "type": "Skill",
+    "cost": "4",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-116": {
+    "id": "FTH-116",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Root Warden"
+        },
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_RootWarden.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Root Warden",
+    "type": "Unit",
+    "cost": "6",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-117": {
+    "id": "FTH-117",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Smashing Instinct"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SmashingInstinct.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Smashing Instinct",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-118": {
+    "id": "FTH-118",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ulcerated Wolf"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UleratedWolf.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Ulcerated Wolf",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-119": {
+    "id": "FTH-119",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Verdant Scout"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_VerdantScout.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Verdant Scout",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-120": {
+    "id": "FTH-120",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Warrior of the Clearing"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_WarriorOfTheClearing.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Warrior of the Clearing",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Nature",
+    "isToken": "FALSE"
+  },
+  "FTH-121": {
+    "id": "FTH-121",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forgotten Giant"
+        },
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ForgottenGiant.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Forgotten Giant",
+    "type": "Unit",
+    "cost": "7",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-122": {
+    "id": "FTH-122",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hasty Repairs"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_HastyRepairs.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Hasty Repairs",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-123": {
+    "id": "FTH-123",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Municipal Crocodile"
+        },
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_MunicipalCrocodile.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Municipal Crocodile",
+    "type": "Unit",
+    "cost": "4",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-124": {
+    "id": "FTH-124",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Null Blast"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_NullBlast.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Null Blast",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-125": {
+    "id": "FTH-125",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Outlaw Contractor"
+        },
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_OutlawContractor.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Outlaw Contractor",
+    "type": "Unit",
+    "cost": "2",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-126": {
+    "id": "FTH-126",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Stone"
+        },
+        "type": "Equipment",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_PaleStone.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Pale Stone",
+    "type": "Equipment",
+    "cost": "2",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-127": {
+    "id": "FTH-127",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Seize Advantage"
+        },
+        "type": "Skill",
+        "cost": "2",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SeizeAdvantage.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Seize Advantage",
+    "type": "Skill",
+    "cost": "2",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-128": {
+    "id": "FTH-128",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Think Ahead"
+        },
+        "type": "Skill",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ThinkAhead.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Think Ahead",
+    "type": "Skill",
+    "cost": "1",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-129": {
+    "id": "FTH-129",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Urchin Informant"
+        },
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UrchinInformant.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Urchin Informant",
+    "type": "Unit",
+    "cost": "1",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-130": {
+    "id": "FTH-130",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Urn of Avarice"
+        },
+        "type": "Equipment",
+        "cost": "5",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UrnOfAvarice.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Urn of Avarice",
+    "type": "Equipment",
+    "cost": "5",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-131": {
+    "id": "FTH-131",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crumbling Chapel"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_CrumblingChapel.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Crumbling Chapel",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-132": {
+    "id": "FTH-132",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demented Grove"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_DementedGrove.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Demented Grove",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-133": {
+    "id": "FTH-133",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Growing Circle"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_GrowingCircle.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Growing Circle",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-134": {
+    "id": "FTH-134",
+    "face": {
+      "front": {
+        "name": {
+          "name": "League Pit"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_LeaguePit.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "League Pit",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-135": {
+    "id": "FTH-135",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Overgrown Copse"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_OvergrownCopse.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Overgrown Copse",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-136": {
+    "id": "FTH-136",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pyroclastic Keep"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_PyroclasticKeep.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Pyroclastic Keep",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-137": {
+    "id": "FTH-137",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Replication Chamber"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_ReplicationChamber.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Replication Chamber",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-138": {
+    "id": "FTH-138",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spawning Pools"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_SpawningPools.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Spawning Pools",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-139": {
+    "id": "FTH-139",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasury Halls"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_TreasuryHalls.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Treasury Halls",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-140": {
+    "id": "FTH-140",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tunnel Network"
+        },
+        "type": "Base",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_TunnelNetwork.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Tunnel Network",
+    "type": "Base",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "FALSE"
+  },
+  "FTH-141": {
+    "id": "FTH-141",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Copy Token"
+        },
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTHToken_Copy.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Copy Token",
+    "type": "Unit",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "TRUE"
+  },
+  "FTH-142": {
+    "id": "FTH-142",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gold Token"
+        },
+        "type": "Equipment",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTHToken_Gold.png",
+        "domain": "Neutral"
+      }
+    },
+    "name": "Gold Token",
+    "type": "Equipment",
+    "cost": "0",
+    "domain": "Neutral",
+    "isToken": "TRUE"
+  },
+  "FTH-143": {
+    "id": "FTH-143",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Plant Demon Token"
+        },
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTHToken_PlantDemon.png",
+        "domain": "Nature"
+      }
+    },
+    "name": "Plant Demon Token",
+    "type": "Unit",
+    "cost": "0",
+    "domain": "Nature",
+    "isToken": "TRUE"
   }
 }
