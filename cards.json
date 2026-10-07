@@ -2714,7 +2714,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-002": {
     "id": "FTH-002",
@@ -2733,7 +2733,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-003": {
     "id": "FTH-003",
@@ -2752,7 +2752,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-004": {
     "id": "FTH-004",
@@ -2771,7 +2771,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-005": {
     "id": "FTH-005",
@@ -2790,7 +2790,7 @@
     "type": "Equipment",
     "cost": "6",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-006": {
     "id": "FTH-006",
@@ -2809,7 +2809,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-007": {
     "id": "FTH-007",
@@ -2828,7 +2828,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-008": {
     "id": "FTH-008",
@@ -2847,7 +2847,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-009": {
     "id": "FTH-009",
@@ -2866,7 +2866,7 @@
     "type": "Equipment",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-010": {
     "id": "FTH-010",
@@ -2885,7 +2885,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-011": {
     "id": "FTH-011",
@@ -2904,7 +2904,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-012": {
     "id": "FTH-012",
@@ -2923,7 +2923,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-013": {
     "id": "FTH-013",
@@ -2942,7 +2942,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-014": {
     "id": "FTH-014",
@@ -2961,7 +2961,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-015": {
     "id": "FTH-015",
@@ -2980,7 +2980,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-016": {
     "id": "FTH-016",
@@ -2999,7 +2999,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-017": {
     "id": "FTH-017",
@@ -3018,7 +3018,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-018": {
     "id": "FTH-018",
@@ -3037,7 +3037,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-019": {
     "id": "FTH-019",
@@ -3056,7 +3056,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-020": {
     "id": "FTH-020",
@@ -3075,7 +3075,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Light",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-021": {
     "id": "FTH-021",
@@ -3094,7 +3094,7 @@
     "type": "Unit",
     "cost": "8",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-022": {
     "id": "FTH-022",
@@ -3113,7 +3113,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-023": {
     "id": "FTH-023",
@@ -3132,7 +3132,7 @@
     "type": "Equipment",
     "cost": "1",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-024": {
     "id": "FTH-024",
@@ -3151,7 +3151,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-025": {
     "id": "FTH-025",
@@ -3170,7 +3170,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-026": {
     "id": "FTH-026",
@@ -3189,7 +3189,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-027": {
     "id": "FTH-027",
@@ -3208,7 +3208,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-028": {
     "id": "FTH-028",
@@ -3227,7 +3227,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-029": {
     "id": "FTH-029",
@@ -3246,7 +3246,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-030": {
     "id": "FTH-030",
@@ -3265,7 +3265,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-031": {
     "id": "FTH-031",
@@ -3284,7 +3284,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-032": {
     "id": "FTH-032",
@@ -3303,7 +3303,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-033": {
     "id": "FTH-033",
@@ -3322,7 +3322,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-034": {
     "id": "FTH-034",
@@ -3341,7 +3341,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-035": {
     "id": "FTH-035",
@@ -3360,7 +3360,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-036": {
     "id": "FTH-036",
@@ -3379,7 +3379,7 @@
     "type": "Unit",
     "cost": "8",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-037": {
     "id": "FTH-037",
@@ -3398,7 +3398,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-038": {
     "id": "FTH-038",
@@ -3417,7 +3417,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-039": {
     "id": "FTH-039",
@@ -3436,7 +3436,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-040": {
     "id": "FTH-040",
@@ -3455,7 +3455,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Dark",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-041": {
     "id": "FTH-041",
@@ -3474,7 +3474,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-042": {
     "id": "FTH-042",
@@ -3493,7 +3493,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-043": {
     "id": "FTH-043",
@@ -3512,7 +3512,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-044": {
     "id": "FTH-044",
@@ -3531,7 +3531,7 @@
     "type": "Equipment",
     "cost": "2",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-045": {
     "id": "FTH-045",
@@ -3550,7 +3550,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-046": {
     "id": "FTH-046",
@@ -3569,7 +3569,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-047": {
     "id": "FTH-047",
@@ -3588,7 +3588,7 @@
     "type": "Equipment",
     "cost": "2",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-048": {
     "id": "FTH-048",
@@ -3607,7 +3607,7 @@
     "type": "Equipment",
     "cost": "3",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-049": {
     "id": "FTH-049",
@@ -3626,7 +3626,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-050": {
     "id": "FTH-050",
@@ -3645,7 +3645,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-051": {
     "id": "FTH-051",
@@ -3664,7 +3664,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-052": {
     "id": "FTH-052",
@@ -3683,7 +3683,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-053": {
     "id": "FTH-053",
@@ -3702,7 +3702,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-054": {
     "id": "FTH-054",
@@ -3721,7 +3721,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-055": {
     "id": "FTH-055",
@@ -3740,7 +3740,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-056": {
     "id": "FTH-056",
@@ -3759,7 +3759,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-057": {
     "id": "FTH-057",
@@ -3778,7 +3778,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-058": {
     "id": "FTH-058",
@@ -3797,7 +3797,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-059": {
     "id": "FTH-059",
@@ -3816,7 +3816,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-060": {
     "id": "FTH-060",
@@ -3835,7 +3835,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Mind",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-061": {
     "id": "FTH-061",
@@ -3854,7 +3854,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-062": {
     "id": "FTH-062",
@@ -3873,7 +3873,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-063": {
     "id": "FTH-063",
@@ -3892,7 +3892,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-064": {
     "id": "FTH-064",
@@ -3911,7 +3911,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-065": {
     "id": "FTH-065",
@@ -3930,7 +3930,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-066": {
     "id": "FTH-066",
@@ -3949,7 +3949,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-067": {
     "id": "FTH-067",
@@ -3968,7 +3968,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-068": {
     "id": "FTH-068",
@@ -3987,7 +3987,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-069": {
     "id": "FTH-069",
@@ -4006,7 +4006,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-070": {
     "id": "FTH-070",
@@ -4025,7 +4025,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-071": {
     "id": "FTH-071",
@@ -4044,7 +4044,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-072": {
     "id": "FTH-072",
@@ -4063,7 +4063,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-073": {
     "id": "FTH-073",
@@ -4082,7 +4082,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-074": {
     "id": "FTH-074",
@@ -4101,7 +4101,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-075": {
     "id": "FTH-075",
@@ -4120,7 +4120,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-076": {
     "id": "FTH-076",
@@ -4139,7 +4139,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-077": {
     "id": "FTH-077",
@@ -4158,7 +4158,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-078": {
     "id": "FTH-078",
@@ -4177,7 +4177,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-079": {
     "id": "FTH-079",
@@ -4196,7 +4196,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-080": {
     "id": "FTH-080",
@@ -4215,7 +4215,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Soul",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-081": {
     "id": "FTH-081",
@@ -4234,7 +4234,7 @@
     "type": "Unit",
     "cost": "10",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-082": {
     "id": "FTH-082",
@@ -4253,7 +4253,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-083": {
     "id": "FTH-083",
@@ -4272,7 +4272,7 @@
     "type": "Equipment",
     "cost": "3",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-084": {
     "id": "FTH-084",
@@ -4291,7 +4291,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-085": {
     "id": "FTH-085",
@@ -4310,7 +4310,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-086": {
     "id": "FTH-086",
@@ -4329,7 +4329,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-087": {
     "id": "FTH-087",
@@ -4348,7 +4348,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-088": {
     "id": "FTH-088",
@@ -4367,7 +4367,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-089": {
     "id": "FTH-089",
@@ -4386,7 +4386,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-090": {
     "id": "FTH-090",
@@ -4405,7 +4405,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-091": {
     "id": "FTH-091",
@@ -4424,7 +4424,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-092": {
     "id": "FTH-092",
@@ -4443,7 +4443,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-093": {
     "id": "FTH-093",
@@ -4462,7 +4462,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-094": {
     "id": "FTH-094",
@@ -4481,7 +4481,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-095": {
     "id": "FTH-095",
@@ -4500,7 +4500,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-096": {
     "id": "FTH-096",
@@ -4519,7 +4519,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-097": {
     "id": "FTH-097",
@@ -4538,7 +4538,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-098": {
     "id": "FTH-098",
@@ -4557,7 +4557,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-099": {
     "id": "FTH-099",
@@ -4576,7 +4576,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-100": {
     "id": "FTH-100",
@@ -4595,7 +4595,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Conquest",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-101": {
     "id": "FTH-101",
@@ -4614,7 +4614,7 @@
     "type": "Unit",
     "cost": "9",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-102": {
     "id": "FTH-102",
@@ -4633,7 +4633,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-103": {
     "id": "FTH-103",
@@ -4652,7 +4652,7 @@
     "type": "Equipment",
     "cost": "1",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-104": {
     "id": "FTH-104",
@@ -4671,7 +4671,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-105": {
     "id": "FTH-105",
@@ -4690,7 +4690,7 @@
     "type": "Skill",
     "cost": "3",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-106": {
     "id": "FTH-106",
@@ -4709,7 +4709,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-107": {
     "id": "FTH-107",
@@ -4728,7 +4728,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-108": {
     "id": "FTH-108",
@@ -4747,7 +4747,7 @@
     "type": "Unit",
     "cost": "5",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-109": {
     "id": "FTH-109",
@@ -4766,7 +4766,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-110": {
     "id": "FTH-110",
@@ -4785,7 +4785,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-111": {
     "id": "FTH-111",
@@ -4804,7 +4804,7 @@
     "type": "Unit",
     "cost": "3",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-112": {
     "id": "FTH-112",
@@ -4823,7 +4823,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-113": {
     "id": "FTH-113",
@@ -4842,7 +4842,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-114": {
     "id": "FTH-114",
@@ -4861,7 +4861,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-115": {
     "id": "FTH-115",
@@ -4880,7 +4880,7 @@
     "type": "Skill",
     "cost": "4",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-116": {
     "id": "FTH-116",
@@ -4899,7 +4899,7 @@
     "type": "Unit",
     "cost": "6",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-117": {
     "id": "FTH-117",
@@ -4918,7 +4918,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-118": {
     "id": "FTH-118",
@@ -4929,7 +4929,7 @@
         },
         "type": "Unit",
         "cost": "2",
-        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UleratedWolf.png",
+        "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UlceratedWolf.png",
         "domain": "Nature"
       }
     },
@@ -4937,7 +4937,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-119": {
     "id": "FTH-119",
@@ -4956,7 +4956,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-120": {
     "id": "FTH-120",
@@ -4975,7 +4975,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Nature",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-121": {
     "id": "FTH-121",
@@ -4994,7 +4994,7 @@
     "type": "Unit",
     "cost": "7",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-122": {
     "id": "FTH-122",
@@ -5013,7 +5013,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-123": {
     "id": "FTH-123",
@@ -5032,7 +5032,7 @@
     "type": "Unit",
     "cost": "4",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-124": {
     "id": "FTH-124",
@@ -5051,7 +5051,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-125": {
     "id": "FTH-125",
@@ -5070,7 +5070,7 @@
     "type": "Unit",
     "cost": "2",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-126": {
     "id": "FTH-126",
@@ -5089,7 +5089,7 @@
     "type": "Equipment",
     "cost": "2",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-127": {
     "id": "FTH-127",
@@ -5108,7 +5108,7 @@
     "type": "Skill",
     "cost": "2",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-128": {
     "id": "FTH-128",
@@ -5127,7 +5127,7 @@
     "type": "Skill",
     "cost": "1",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-129": {
     "id": "FTH-129",
@@ -5146,7 +5146,7 @@
     "type": "Unit",
     "cost": "1",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-130": {
     "id": "FTH-130",
@@ -5165,7 +5165,7 @@
     "type": "Equipment",
     "cost": "5",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-131": {
     "id": "FTH-131",
@@ -5184,7 +5184,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-132": {
     "id": "FTH-132",
@@ -5203,7 +5203,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-133": {
     "id": "FTH-133",
@@ -5222,7 +5222,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-134": {
     "id": "FTH-134",
@@ -5241,7 +5241,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-135": {
     "id": "FTH-135",
@@ -5260,7 +5260,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-136": {
     "id": "FTH-136",
@@ -5279,7 +5279,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-137": {
     "id": "FTH-137",
@@ -5298,7 +5298,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-138": {
     "id": "FTH-138",
@@ -5317,7 +5317,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-139": {
     "id": "FTH-139",
@@ -5336,7 +5336,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-140": {
     "id": "FTH-140",
@@ -5355,7 +5355,7 @@
     "type": "Base",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "FALSE"
+    "isToken": false
   },
   "FTH-141": {
     "id": "FTH-141",
@@ -5374,7 +5374,7 @@
     "type": "Unit",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "TRUE"
+    "isToken": true
   },
   "FTH-142": {
     "id": "FTH-142",
@@ -5393,7 +5393,7 @@
     "type": "Equipment",
     "cost": "0",
     "domain": "Neutral",
-    "isToken": "TRUE"
+    "isToken": true
   },
   "FTH-143": {
     "id": "FTH-143",
@@ -5412,6 +5412,6 @@
     "type": "Unit",
     "cost": "0",
     "domain": "Nature",
-    "isToken": "TRUE"
+    "isToken": true
   }
 }
