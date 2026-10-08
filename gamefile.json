@@ -35,12 +35,12 @@
       
       "mulligan": { 
         "startingHandSize": 7,
-        "mulliganCount": { "max": 7 },
+        "mulliganCount": { "max": 1 },
         "mulliganCycle": {
           "steps": [
-            "toBottom", "shuffle", "applyPenalty", "draw"
+            "toBottom", "shuffle", "draw"
           ],
-          "selectionRange": { "min": 8 }
+          "selectionRange": { "min": 1, "max": 7 }
         }
         },
       
