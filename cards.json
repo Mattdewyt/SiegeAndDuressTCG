@@ -4928,14 +4928,14 @@
           "name": "Ulcerated Wolf"
         },
         "type": "Unit",
-        "cost": "2",
+        "cost": "6",
         "image": "https://mattdewyt.github.io/SiegeAndDuressTCG/cards/Faithless/FTH_UlceratedWolf.png",
         "domain": "Nature"
       }
     },
     "name": "Ulcerated Wolf",
     "type": "Unit",
-    "cost": "2",
+    "cost": "6",
     "domain": "Nature",
     "isToken": false
   },
